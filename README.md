@@ -198,12 +198,11 @@ Provides a high-level view of the overall business performance.
 - Monthly delivered revenue trend.
 - Executive-level business insights.
 
-<details>
-<summary><strong>View Executive Overview dashboard</strong></summary>
+
 
 ![FoodFlow Executive Overview](06_Dashboard_Images/01_Executive_Overview.png)
 
-</details>
+
 
 ### Page 2 — Platform & Revenue Analysis
 
