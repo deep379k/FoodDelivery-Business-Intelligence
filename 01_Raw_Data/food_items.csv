@@ -1,0 +1,451 @@
+item_id,item_name,category,cuisine,vegetarian,food_cost,selling_price,preparation_time
+ITEM0001,Pizza 001,Starter,Cafe,False,248.76,360.7,13
+ITEM0002,Noodles 002,Main Course,Burger,False,199.84,289.77,29
+ITEM0003,Coffee 003,Dessert,South Indian,False,98.36,227.17,24
+ITEM0004,Burger 004,Fast Food,Healthy,True,255.52,528.44,33
+ITEM0005,Pizza 005,Fast Food,Chinese,True,43.7,360.59,6
+ITEM0006,Dosa 006,Beverage,Healthy,False,87.5,322.65,20
+ITEM0007,Coffee 007,Starter,Burger,True,139.06,422.68,35
+ITEM0008,Dosa 008,Starter,Chinese,True,41.49,216.45,9
+ITEM0009,Momos 009,Main Course,Desserts,True,232.84,337.62,13
+ITEM0010,Paneer 010,Beverage,Mughlai,True,57.21,369.73,15
+ITEM0011,Biryani 011,Starter,Burger,True,217.53,315.42,10
+ITEM0012,Pizza 012,Starter,Chinese,False,194.76,483.36,6
+ITEM0013,Cake 013,Dessert,North Indian,True,200.57,316.53,7
+ITEM0014,Pizza 014,Fast Food,Cafe,False,141.6,429.15,5
+ITEM0015,Fried Rice 015,Dessert,Cafe,False,224.26,329.82,18
+ITEM0016,Coffee 016,Main Course,Healthy,False,205.03,297.29,18
+ITEM0017,Coffee 017,Dessert,Biryani,True,45.02,91.03,31
+ITEM0018,Coffee 018,Beverage,Healthy,True,59.83,349.83,27
+ITEM0019,Cake 019,Beverage,Burger,False,94.08,354.6,13
+ITEM0020,Momos 020,Dessert,Desserts,True,184.14,527.59,23
+ITEM0021,Pasta 021,Beverage,Burger,True,133.5,399.63,11
+ITEM0022,Pasta 022,Beverage,Pizza,True,90.02,221.08,32
+ITEM0023,Biryani 023,Fast Food,Street Food,True,65.71,442.0,7
+ITEM0024,Fried Rice 024,Fast Food,Cafe,False,130.53,360.33,21
+ITEM0025,Paneer 025,Dessert,North Indian,True,82.49,179.17,19
+ITEM0026,Momos 026,Dessert,Cafe,True,239.58,347.39,35
+ITEM0027,Fried Rice 027,Main Course,Cafe,False,226.23,509.76,10
+ITEM0028,Momos 028,Dessert,Chinese,True,78.48,113.8,20
+ITEM0029,Roll 029,Starter,Mughlai,True,208.02,301.63,32
+ITEM0030,Roll 030,Main Course,South Indian,False,251.63,364.86,9
+ITEM0031,Thali 031,Fast Food,North Indian,False,58.57,278.29,6
+ITEM0032,Cake 032,Snack,Biryani,False,258.51,374.84,6
+ITEM0033,Sandwich 033,Main Course,Healthy,True,108.58,418.36,23
+ITEM0034,Pasta 034,Snack,Street Food,True,220.93,372.37,33
+ITEM0035,Fried Rice 035,Fast Food,Chinese,True,110.98,225.9,24
+ITEM0036,Biryani 036,Dessert,Street Food,False,130.92,370.24,20
+ITEM0037,Coffee 037,Fast Food,Cafe,True,37.66,428.21,8
+ITEM0038,Dosa 038,Snack,Biryani,False,227.38,329.7,26
+ITEM0039,Paneer 039,Main Course,Chinese,True,167.87,443.04,16
+ITEM0040,Momos 040,Starter,Pizza,False,113.06,163.94,10
+ITEM0041,Biryani 041,Main Course,Street Food,True,65.01,389.74,18
+ITEM0042,Pizza 042,Beverage,North Indian,True,179.45,377.36,19
+ITEM0043,Pasta 043,Beverage,Mughlai,True,218.24,316.45,35
+ITEM0044,Roll 044,Snack,Healthy,True,249.55,361.85,19
+ITEM0045,Fried Rice 045,Starter,Biryani,False,148.99,328.14,29
+ITEM0046,Thali 046,Fast Food,Street Food,False,73.88,203.11,25
+ITEM0047,Dosa 047,Snack,Mughlai,True,108.91,300.17,13
+ITEM0048,Dosa 048,Dessert,Cafe,True,245.9,356.56,5
+ITEM0049,Pasta 049,Beverage,Burger,False,207.51,379.45,24
+ITEM0050,Coffee 050,Dessert,South Indian,False,48.81,403.35,21
+ITEM0051,Pasta 051,Starter,Cafe,True,246.46,521.02,14
+ITEM0052,Fried Rice 052,Beverage,Biryani,True,109.09,399.03,35
+ITEM0053,Pizza 053,Beverage,Street Food,False,161.49,234.16,7
+ITEM0054,Paneer 054,Snack,Mughlai,True,188.36,501.04,17
+ITEM0055,Paneer 055,Starter,Pizza,False,123.05,334.34,19
+ITEM0056,Cake 056,Main Course,Biryani,False,176.3,399.47,29
+ITEM0057,Noodles 057,Snack,Burger,False,37.86,89.86,10
+ITEM0058,Momos 058,Beverage,South Indian,True,37.6,471.08,15
+ITEM0059,Cake 059,Beverage,Pizza,False,150.43,459.9,18
+ITEM0060,Roll 060,Dessert,Desserts,False,172.18,298.42,16
+ITEM0061,Pasta 061,Dessert,South Indian,True,91.11,545.39,31
+ITEM0062,Pizza 062,Main Course,Biryani,False,178.98,404.58,25
+ITEM0063,Thali 063,Main Course,Burger,True,120.15,256.79,34
+ITEM0064,Paneer 064,Main Course,Pizza,False,198.37,287.64,18
+ITEM0065,Paneer 065,Starter,Desserts,True,130.25,199.14,11
+ITEM0066,Fried Rice 066,Beverage,Desserts,True,155.06,224.84,24
+ITEM0067,Roll 067,Main Course,Cafe,True,228.8,331.76,14
+ITEM0068,Biryani 068,Starter,Chinese,True,225.7,327.26,8
+ITEM0069,Pizza 069,Starter,Desserts,False,161.74,412.18,26
+ITEM0070,Coffee 070,Dessert,Burger,True,47.82,139.03,24
+ITEM0071,Pasta 071,Snack,South Indian,True,170.21,530.2,35
+ITEM0072,Pasta 072,Beverage,Cafe,True,45.77,487.77,16
+ITEM0073,Dosa 073,Main Course,North Indian,True,89.47,246.54,17
+ITEM0074,Pasta 074,Beverage,Burger,False,204.01,295.81,25
+ITEM0075,Burger 075,Main Course,Biryani,False,236.23,342.53,11
+ITEM0076,Burger 076,Beverage,Cafe,True,176.12,286.59,28
+ITEM0077,Momos 077,Starter,Mughlai,False,185.92,287.49,17
+ITEM0078,Cake 078,Starter,Pizza,True,142.59,357.76,22
+ITEM0079,Fried Rice 079,Starter,Desserts,True,217.52,381.8,27
+ITEM0080,Burger 080,Snack,Street Food,True,112.97,445.01,33
+ITEM0081,Burger 081,Main Course,Healthy,True,137.43,271.76,28
+ITEM0082,Biryani 082,Dessert,Street Food,True,249.43,361.67,13
+ITEM0083,Paneer 083,Fast Food,Pizza,False,232.55,337.2,19
+ITEM0084,Coffee 084,Starter,Pizza,True,126.2,534.2,27
+ITEM0085,Biryani 085,Beverage,Biryani,False,194.26,281.68,33
+ITEM0086,Paneer 086,Starter,Desserts,True,227.29,477.42,31
+ITEM0087,Paneer 087,Snack,Burger,True,195.93,396.43,26
+ITEM0088,Pasta 088,Beverage,Chinese,True,235.58,341.59,30
+ITEM0089,Biryani 089,Main Course,Mughlai,False,107.48,277.87,20
+ITEM0090,Fried Rice 090,Starter,Burger,True,79.54,173.4,5
+ITEM0091,Paneer 091,Main Course,Biryani,True,251.0,363.95,26
+ITEM0092,Momos 092,Beverage,Burger,True,166.21,414.77,9
+ITEM0093,Fried Rice 093,Main Course,Biryani,False,68.43,99.76,22
+ITEM0094,Paneer 094,Main Course,Healthy,True,182.84,265.12,22
+ITEM0095,Noodles 095,Snack,Cafe,True,84.4,331.11,11
+ITEM0096,Coffee 096,Dessert,Healthy,True,241.07,518.88,25
+ITEM0097,Burger 097,Dessert,South Indian,False,119.68,214.57,23
+ITEM0098,Biryani 098,Snack,Desserts,True,128.84,282.73,25
+ITEM0099,Roll 099,Beverage,Street Food,True,171.99,249.39,17
+ITEM0100,Momos 100,Main Course,North Indian,True,229.1,332.2,9
+ITEM0101,Paneer 101,Starter,Cafe,True,125.31,368.16,16
+ITEM0102,Pasta 102,Snack,Burger,False,219.29,317.97,34
+ITEM0103,Dosa 103,Snack,Healthy,True,226.37,328.24,8
+ITEM0104,Cake 104,Main Course,Pizza,True,218.48,412.85,29
+ITEM0105,Pizza 105,Snack,Healthy,True,187.79,501.45,15
+ITEM0106,Thali 106,Fast Food,Healthy,False,42.04,272.97,34
+ITEM0107,Burger 107,Main Course,Street Food,True,144.23,209.13,35
+ITEM0108,Pizza 108,Fast Food,Biryani,True,148.86,215.85,16
+ITEM0109,Thali 109,Fast Food,Cafe,False,216.54,338.9,11
+ITEM0110,Paneer 110,Beverage,Chinese,True,78.99,339.14,11
+ITEM0111,Cake 111,Starter,Burger,True,107.46,250.48,10
+ITEM0112,Coffee 112,Fast Food,Chinese,True,87.2,241.56,25
+ITEM0113,Cake 113,Dessert,Chinese,False,228.96,331.99,5
+ITEM0114,Dosa 114,Fast Food,Burger,False,221.25,320.81,31
+ITEM0115,Roll 115,Beverage,Cafe,True,200.25,507.28,12
+ITEM0116,Thali 116,Beverage,Street Food,False,180.94,264.41,21
+ITEM0117,Burger 117,Beverage,Chinese,False,146.69,392.63,30
+ITEM0118,Biryani 118,Main Course,Biryani,True,243.29,352.77,35
+ITEM0119,Cake 119,Beverage,Biryani,False,124.18,180.06,10
+ITEM0120,Dosa 120,Beverage,Healthy,False,84.47,216.72,28
+ITEM0121,Fried Rice 121,Starter,Pizza,True,51.81,428.43,35
+ITEM0122,Noodles 122,Starter,Burger,True,79.14,356.72,5
+ITEM0123,Dosa 123,Dessert,South Indian,True,259.11,375.71,9
+ITEM0124,Noodles 124,Dessert,Cafe,True,134.35,404.99,16
+ITEM0125,Paneer 125,Snack,Cafe,True,249.39,361.62,29
+ITEM0126,Thali 126,Starter,South Indian,False,238.74,517.82,7
+ITEM0127,Momos 127,Fast Food,Mughlai,True,83.0,209.5,18
+ITEM0128,Noodles 128,Starter,South Indian,True,230.25,333.86,18
+ITEM0129,Cake 129,Starter,Mughlai,False,58.01,215.76,19
+ITEM0130,Sandwich 130,Starter,Biryani,True,184.79,267.95,18
+ITEM0131,Paneer 131,Starter,Healthy,True,151.15,234.88,11
+ITEM0132,Sandwich 132,Snack,Burger,False,177.49,347.41,31
+ITEM0133,Pasta 133,Main Course,Cafe,True,182.01,263.91,33
+ITEM0134,Pasta 134,Starter,Biryani,True,173.53,522.58,23
+ITEM0135,Noodles 135,Beverage,Street Food,False,249.36,361.57,24
+ITEM0136,Fried Rice 136,Beverage,Chinese,False,195.85,283.98,35
+ITEM0137,Coffee 137,Dessert,Biryani,True,238.64,409.06,10
+ITEM0138,Momos 138,Starter,Cafe,True,184.84,491.95,31
+ITEM0139,Noodles 139,Main Course,Pizza,False,80.73,367.77,16
+ITEM0140,Pizza 140,Dessert,Pizza,False,75.15,508.19,13
+ITEM0141,Paneer 141,Snack,Mughlai,True,235.35,524.27,5
+ITEM0142,Biryani 142,Fast Food,Pizza,True,176.79,256.35,22
+ITEM0143,Pizza 143,Starter,South Indian,True,242.32,351.36,34
+ITEM0144,Paneer 144,Dessert,South Indian,False,156.71,227.23,35
+ITEM0145,Momos 145,Fast Food,Pizza,True,206.25,321.88,22
+ITEM0146,Roll 146,Dessert,Mughlai,True,54.55,139.89,15
+ITEM0147,Roll 147,Beverage,South Indian,True,171.6,248.82,8
+ITEM0148,Sandwich 148,Fast Food,Street Food,True,173.19,409.28,19
+ITEM0149,Coffee 149,Starter,Desserts,False,239.8,347.71,21
+ITEM0150,Noodles 150,Main Course,Street Food,False,175.81,254.92,19
+ITEM0151,Biryani 151,Dessert,Cafe,False,127.61,207.74,13
+ITEM0152,Thali 152,Main Course,Street Food,True,177.58,308.85,7
+ITEM0153,Burger 153,Dessert,South Indian,True,89.39,272.65,6
+ITEM0154,Sandwich 154,Starter,Cafe,True,241.69,510.97,33
+ITEM0155,Burger 155,Dessert,Biryani,False,119.8,173.71,32
+ITEM0156,Momos 156,Starter,Cafe,True,68.18,266.08,6
+ITEM0157,Dosa 157,Dessert,Chinese,False,192.19,278.68,9
+ITEM0158,Coffee 158,Dessert,Cafe,False,253.13,501.99,25
+ITEM0159,Roll 159,Starter,Desserts,False,162.92,442.7,26
+ITEM0160,Sandwich 160,Starter,Street Food,True,251.02,363.98,28
+ITEM0161,Cake 161,Main Course,Chinese,True,155.08,224.87,17
+ITEM0162,Momos 162,Fast Food,Cafe,False,48.12,501.23,31
+ITEM0163,Momos 163,Starter,Biryani,True,216.35,525.18,5
+ITEM0164,Cake 164,Fast Food,Mughlai,True,188.46,278.69,22
+ITEM0165,Thali 165,Beverage,Street Food,True,87.47,132.98,15
+ITEM0166,Cake 166,Main Course,Biryani,True,96.88,140.48,19
+ITEM0167,Momos 167,Main Course,Burger,True,171.44,248.59,14
+ITEM0168,Biryani 168,Snack,Cafe,True,146.37,415.41,34
+ITEM0169,Momos 169,Dessert,Cafe,True,52.62,489.42,18
+ITEM0170,Roll 170,Main Course,South Indian,True,201.76,292.55,33
+ITEM0171,Thali 171,Starter,Chinese,True,163.97,239.51,23
+ITEM0172,Noodles 172,Snack,Street Food,False,36.24,497.9,29
+ITEM0173,Paneer 173,Beverage,Biryani,True,96.86,396.29,14
+ITEM0174,Thali 174,Beverage,North Indian,True,143.41,316.41,26
+ITEM0175,Burger 175,Beverage,Pizza,False,171.94,518.57,9
+ITEM0176,Dosa 176,Beverage,South Indian,False,244.04,353.86,17
+ITEM0177,Noodles 177,Fast Food,Desserts,True,122.71,460.07,5
+ITEM0178,Dosa 178,Fast Food,Mughlai,True,181.21,262.75,15
+ITEM0179,Pasta 179,Beverage,Chinese,False,154.97,513.02,35
+ITEM0180,Noodles 180,Dessert,Mughlai,True,38.08,519.91,9
+ITEM0181,Pizza 181,Starter,Mughlai,True,241.26,404.88,33
+ITEM0182,Dosa 182,Beverage,Desserts,True,203.45,386.87,35
+ITEM0183,Pizza 183,Beverage,Healthy,True,196.83,285.4,6
+ITEM0184,Dosa 184,Starter,Burger,True,120.2,174.29,17
+ITEM0185,Pizza 185,Main Course,Chinese,False,146.51,302.65,17
+ITEM0186,Biryani 186,Snack,Healthy,False,109.9,159.35,29
+ITEM0187,Momos 187,Dessert,North Indian,False,80.18,334.84,30
+ITEM0188,Noodles 188,Snack,North Indian,True,108.2,439.29,9
+ITEM0189,Fried Rice 189,Main Course,Desserts,False,137.29,505.73,27
+ITEM0190,Momos 190,Beverage,Street Food,True,195.87,284.01,21
+ITEM0191,Sandwich 191,Main Course,North Indian,False,140.9,484.16,10
+ITEM0192,Fried Rice 192,Starter,South Indian,True,149.21,216.35,16
+ITEM0193,Thali 193,Fast Food,North Indian,True,237.61,344.53,13
+ITEM0194,Paneer 194,Snack,Pizza,False,213.46,309.52,34
+ITEM0195,Momos 195,Dessert,Pizza,False,45.53,79.56,13
+ITEM0196,Burger 196,Starter,Desserts,False,243.35,473.21,28
+ITEM0197,Cake 197,Beverage,Healthy,False,110.29,411.22,29
+ITEM0198,Coffee 198,Fast Food,Street Food,False,195.95,307.93,6
+ITEM0199,Thali 199,Starter,North Indian,False,106.33,494.02,10
+ITEM0200,Noodles 200,Dessert,Healthy,False,176.43,543.81,11
+ITEM0201,Momos 201,Snack,North Indian,True,211.26,306.33,10
+ITEM0202,Coffee 202,Starter,North Indian,False,39.54,212.96,6
+ITEM0203,Fried Rice 203,Snack,Biryani,False,141.33,471.93,22
+ITEM0204,Sandwich 204,Beverage,Biryani,True,40.38,404.46,8
+ITEM0205,Coffee 205,Snack,Desserts,True,179.12,326.57,33
+ITEM0206,Coffee 206,Snack,Chinese,True,85.92,297.34,8
+ITEM0207,Momos 207,Beverage,Mughlai,False,243.53,353.12,7
+ITEM0208,Cake 208,Starter,Street Food,False,79.74,217.28,22
+ITEM0209,Coffee 209,Beverage,Pizza,True,241.64,350.38,30
+ITEM0210,Paneer 210,Snack,Cafe,True,41.42,388.55,28
+ITEM0211,Paneer 211,Fast Food,Pizza,True,107.81,384.69,22
+ITEM0212,Cake 212,Main Course,Desserts,False,147.97,214.56,13
+ITEM0213,Fried Rice 213,Dessert,Burger,True,137.96,451.36,27
+ITEM0214,Fried Rice 214,Snack,Mughlai,True,232.03,336.44,7
+ITEM0215,Pizza 215,Starter,Desserts,True,191.76,278.05,31
+ITEM0216,Roll 216,Main Course,Burger,True,131.71,354.46,11
+ITEM0217,Fried Rice 217,Main Course,Biryani,False,170.09,476.94,22
+ITEM0218,Dosa 218,Beverage,Desserts,True,111.2,161.24,19
+ITEM0219,Momos 219,Fast Food,Biryani,False,109.91,203.08,16
+ITEM0220,Fried Rice 220,Fast Food,North Indian,False,235.6,406.81,7
+ITEM0221,Sandwich 221,Main Course,Burger,True,125.44,181.89,27
+ITEM0222,Pizza 222,Main Course,North Indian,False,109.12,506.01,35
+ITEM0223,Cake 223,Fast Food,Biryani,True,84.94,140.39,14
+ITEM0224,Thali 224,Main Course,Cafe,False,257.25,373.01,13
+ITEM0225,Burger 225,Starter,Burger,True,208.71,490.97,15
+ITEM0226,Pizza 226,Beverage,Pizza,True,85.1,218.22,28
+ITEM0227,Sandwich 227,Main Course,Chinese,False,83.69,138.14,27
+ITEM0228,Noodles 228,Main Course,North Indian,False,204.48,298.56,32
+ITEM0229,Noodles 229,Dessert,Street Food,False,97.78,329.54,18
+ITEM0230,Dosa 230,Starter,Mughlai,True,193.86,383.47,19
+ITEM0231,Noodles 231,Dessert,Mughlai,True,219.16,317.78,28
+ITEM0232,Sandwich 232,Beverage,Healthy,True,116.49,168.91,18
+ITEM0233,Coffee 233,Starter,South Indian,True,127.24,432.71,18
+ITEM0234,Cake 234,Main Course,Healthy,False,219.0,409.67,14
+ITEM0235,Coffee 235,Main Course,Cafe,False,194.74,282.37,29
+ITEM0236,Roll 236,Beverage,Mughlai,False,107.63,425.4,24
+ITEM0237,Momos 237,Fast Food,Burger,False,124.16,180.03,23
+ITEM0238,Cake 238,Snack,Cafe,False,89.61,544.92,30
+ITEM0239,Thali 239,Fast Food,Desserts,True,141.07,204.55,13
+ITEM0240,Paneer 240,Snack,Healthy,True,179.83,370.67,10
+ITEM0241,Cake 241,Main Course,North Indian,True,42.02,241.08,34
+ITEM0242,Roll 242,Dessert,Healthy,True,211.11,306.11,6
+ITEM0243,Dosa 243,Starter,Biryani,True,246.52,459.27,25
+ITEM0244,Fried Rice 244,Fast Food,Burger,False,120.21,174.3,34
+ITEM0245,Pizza 245,Main Course,Mughlai,False,37.06,73.7,22
+ITEM0246,Cake 246,Beverage,South Indian,False,176.13,255.39,24
+ITEM0247,Burger 247,Fast Food,Pizza,True,117.81,527.82,15
+ITEM0248,Burger 248,Fast Food,Mughlai,True,152.6,420.4,10
+ITEM0249,Paneer 249,Starter,Street Food,False,57.67,219.68,5
+ITEM0250,Noodles 250,Fast Food,Chinese,True,244.44,425.55,11
+ITEM0251,Sandwich 251,Starter,Healthy,True,226.25,331.97,20
+ITEM0252,Pizza 252,Beverage,Biryani,False,84.01,483.99,32
+ITEM0253,Momos 253,Fast Food,Biryani,False,54.19,97.12,5
+ITEM0254,Burger 254,Fast Food,North Indian,True,44.24,360.4,16
+ITEM0255,Cake 255,Main Course,Street Food,True,241.75,537.52,30
+ITEM0256,Paneer 256,Dessert,Biryani,True,160.17,232.25,32
+ITEM0257,Coffee 257,Fast Food,Chinese,False,205.19,297.53,13
+ITEM0258,Fried Rice 258,Fast Food,North Indian,False,124.97,181.21,28
+ITEM0259,Cake 259,Main Course,Street Food,True,109.51,158.79,31
+ITEM0260,Pasta 260,Main Course,Cafe,True,105.31,483.83,17
+ITEM0261,Pasta 261,Dessert,Cafe,False,229.42,332.66,19
+ITEM0262,Sandwich 262,Main Course,Biryani,True,187.58,271.99,13
+ITEM0263,Noodles 263,Main Course,Mughlai,True,70.07,333.13,15
+ITEM0264,Noodles 264,Dessert,Street Food,True,153.73,336.71,6
+ITEM0265,Sandwich 265,Snack,Pizza,True,211.69,306.95,9
+ITEM0266,Sandwich 266,Snack,Mughlai,False,249.65,534.65,18
+ITEM0267,Sandwich 267,Main Course,Pizza,True,156.3,242.13,5
+ITEM0268,Burger 268,Fast Food,Mughlai,False,101.93,505.54,17
+ITEM0269,Cake 269,Starter,Cafe,True,53.87,305.29,27
+ITEM0270,Burger 270,Beverage,Burger,False,176.22,255.52,23
+ITEM0271,Momos 271,Starter,Mughlai,False,188.96,273.99,13
+ITEM0272,Coffee 272,Snack,Mughlai,True,94.27,222.35,7
+ITEM0273,Dosa 273,Snack,Street Food,False,192.35,351.67,33
+ITEM0274,Fried Rice 274,Fast Food,Mughlai,False,140.34,302.39,11
+ITEM0275,Biryani 275,Starter,Cafe,True,179.03,259.59,7
+ITEM0276,Momos 276,Snack,Cafe,True,44.16,405.99,34
+ITEM0277,Pasta 277,Snack,Chinese,False,217.29,315.07,26
+ITEM0278,Pizza 278,Main Course,Chinese,True,225.43,326.87,7
+ITEM0279,Sandwich 279,Starter,Pizza,False,74.79,227.75,14
+ITEM0280,Roll 280,Snack,North Indian,True,182.43,264.52,23
+ITEM0281,Cake 281,Beverage,Pizza,True,115.75,167.84,25
+ITEM0282,Cake 282,Starter,Desserts,True,60.4,247.43,33
+ITEM0283,Thali 283,Starter,Cafe,True,137.06,198.74,11
+ITEM0284,Sandwich 284,Beverage,South Indian,False,108.66,157.56,23
+ITEM0285,Momos 285,Snack,North Indian,True,247.09,358.28,28
+ITEM0286,Biryani 286,Fast Food,North Indian,True,111.15,437.48,29
+ITEM0287,Burger 287,Beverage,Desserts,False,71.34,447.31,34
+ITEM0288,Burger 288,Dessert,Mughlai,True,56.47,319.45,18
+ITEM0289,Cake 289,Starter,Desserts,True,95.74,240.05,18
+ITEM0290,Coffee 290,Fast Food,Street Food,True,38.85,115.47,23
+ITEM0291,Noodles 291,Snack,Pizza,True,216.73,314.26,12
+ITEM0292,Sandwich 292,Dessert,Mughlai,True,108.45,304.1,32
+ITEM0293,Pizza 293,Dessert,Cafe,True,99.51,479.23,21
+ITEM0294,Fried Rice 294,Dessert,Mughlai,True,147.96,409.81,21
+ITEM0295,Biryani 295,Fast Food,Cafe,False,81.64,289.6,12
+ITEM0296,Paneer 296,Beverage,Biryani,False,215.69,312.75,6
+ITEM0297,Burger 297,Beverage,Biryani,True,210.4,305.08,29
+ITEM0298,Burger 298,Dessert,Street Food,False,126.65,378.73,31
+ITEM0299,Paneer 299,Fast Food,Biryani,False,44.0,412.21,12
+ITEM0300,Coffee 300,Snack,Pizza,True,150.0,484.75,29
+ITEM0301,Pasta 301,Snack,Desserts,False,95.75,308.81,24
+ITEM0302,Pasta 302,Fast Food,Healthy,False,88.65,488.66,15
+ITEM0303,Noodles 303,Beverage,Pizza,True,243.56,353.16,20
+ITEM0304,Sandwich 304,Beverage,Desserts,True,165.59,240.11,12
+ITEM0305,Cake 305,Snack,Biryani,True,227.22,478.71,35
+ITEM0306,Thali 306,Beverage,Desserts,True,198.95,288.48,23
+ITEM0307,Fried Rice 307,Dessert,Burger,True,74.86,304.75,14
+ITEM0308,Sandwich 308,Beverage,Pizza,True,192.71,363.02,31
+ITEM0309,Coffee 309,Beverage,Chinese,False,85.09,291.93,10
+ITEM0310,Roll 310,Fast Food,Desserts,True,212.87,308.66,6
+ITEM0311,Roll 311,Dessert,Cafe,False,115.62,329.46,34
+ITEM0312,Sandwich 312,Beverage,Cafe,True,80.75,280.29,30
+ITEM0313,Fried Rice 313,Snack,Chinese,False,250.21,522.25,7
+ITEM0314,Momos 314,Beverage,Chinese,False,60.47,437.22,6
+ITEM0315,Pasta 315,Starter,Biryani,True,238.53,364.93,13
+ITEM0316,Noodles 316,Snack,Street Food,False,37.33,548.3,25
+ITEM0317,Biryani 317,Starter,Biryani,False,88.45,132.03,12
+ITEM0318,Pasta 318,Dessert,South Indian,True,241.86,350.7,8
+ITEM0319,Pasta 319,Fast Food,Mughlai,False,178.01,462.14,29
+ITEM0320,Dosa 320,Starter,Mughlai,False,253.1,454.99,13
+ITEM0321,Cake 321,Starter,Street Food,False,200.2,299.37,11
+ITEM0322,Coffee 322,Snack,Biryani,True,113.52,296.74,28
+ITEM0323,Noodles 323,Starter,Burger,True,149.72,229.69,14
+ITEM0324,Roll 324,Main Course,North Indian,True,54.81,141.25,10
+ITEM0325,Thali 325,Dessert,Chinese,False,155.56,225.56,30
+ITEM0326,Biryani 326,Snack,Burger,True,88.33,525.23,9
+ITEM0327,Momos 327,Beverage,Street Food,False,38.63,190.74,33
+ITEM0328,Noodles 328,Beverage,North Indian,True,209.98,304.47,30
+ITEM0329,Coffee 329,Beverage,Burger,False,214.25,310.66,8
+ITEM0330,Biryani 330,Main Course,Cafe,True,134.61,403.97,16
+ITEM0331,Noodles 331,Beverage,Chinese,True,243.58,375.29,32
+ITEM0332,Roll 332,Fast Food,Pizza,False,145.75,265.26,26
+ITEM0333,Paneer 333,Main Course,Pizza,False,103.9,412.25,13
+ITEM0334,Paneer 334,Main Course,Cafe,True,44.23,73.72,35
+ITEM0335,Momos 335,Snack,South Indian,False,159.98,462.6,26
+ITEM0336,Noodles 336,Snack,Street Food,True,206.23,377.42,7
+ITEM0337,Pasta 337,Dessert,Healthy,False,75.98,474.92,8
+ITEM0338,Biryani 338,Main Course,South Indian,False,181.02,262.48,9
+ITEM0339,Roll 339,Fast Food,North Indian,False,140.9,454.36,9
+ITEM0340,Paneer 340,Dessert,Biryani,False,86.06,124.79,15
+ITEM0341,Biryani 341,Snack,South Indian,False,157.76,228.75,24
+ITEM0342,Biryani 342,Starter,Cafe,True,232.66,337.36,31
+ITEM0343,Thali 343,Dessert,Chinese,True,72.55,477.66,33
+ITEM0344,Coffee 344,Fast Food,Pizza,True,183.2,279.99,16
+ITEM0345,Biryani 345,Snack,Biryani,True,251.28,364.36,29
+ITEM0346,Burger 346,Starter,Mughlai,False,63.13,487.18,20
+ITEM0347,Momos 347,Snack,Pizza,True,38.37,252.38,5
+ITEM0348,Fried Rice 348,Starter,Healthy,True,69.42,488.64,23
+ITEM0349,Cake 349,Main Course,Biryani,False,67.76,524.28,25
+ITEM0350,Burger 350,Main Course,Healthy,False,80.66,185.34,7
+ITEM0351,Sandwich 351,Fast Food,South Indian,True,176.46,371.69,6
+ITEM0352,Paneer 352,Dessert,Burger,True,38.24,438.67,6
+ITEM0353,Momos 353,Beverage,Street Food,True,147.63,339.43,25
+ITEM0354,Cake 354,Snack,Chinese,True,253.69,372.21,23
+ITEM0355,Noodles 355,Beverage,Desserts,True,247.3,443.79,7
+ITEM0356,Roll 356,Snack,North Indian,False,126.79,482.73,24
+ITEM0357,Coffee 357,Starter,Mughlai,False,130.27,408.31,16
+ITEM0358,Noodles 358,Dessert,Mughlai,False,49.02,345.81,34
+ITEM0359,Burger 359,Snack,Cafe,True,165.03,239.29,28
+ITEM0360,Cake 360,Snack,Cafe,False,76.81,506.75,32
+ITEM0361,Paneer 361,Snack,Desserts,True,87.52,346.76,8
+ITEM0362,Cake 362,Fast Food,Street Food,True,217.73,315.71,23
+ITEM0363,Coffee 363,Starter,Biryani,True,141.17,294.08,16
+ITEM0364,Coffee 364,Starter,South Indian,False,184.73,267.86,18
+ITEM0365,Fried Rice 365,Fast Food,South Indian,True,168.44,310.43,35
+ITEM0366,Coffee 366,Snack,South Indian,False,188.99,303.76,10
+ITEM0367,Coffee 367,Main Course,Healthy,False,117.34,170.14,18
+ITEM0368,Pizza 368,Fast Food,Chinese,True,80.71,275.38,33
+ITEM0369,Coffee 369,Snack,Street Food,False,71.5,270.7,17
+ITEM0370,Biryani 370,Beverage,Cafe,False,220.27,354.82,24
+ITEM0371,Roll 371,Starter,Biryani,True,58.53,241.79,11
+ITEM0372,Noodles 372,Starter,South Indian,True,133.94,315.52,8
+ITEM0373,Pizza 373,Beverage,South Indian,False,112.4,360.29,22
+ITEM0374,Pizza 374,Dessert,Street Food,False,61.9,431.15,7
+ITEM0375,Roll 375,Starter,Pizza,True,127.12,263.92,10
+ITEM0376,Burger 376,Main Course,Desserts,True,237.99,502.7,18
+ITEM0377,Fried Rice 377,Beverage,Cafe,False,126.61,244.17,35
+ITEM0378,Momos 378,Snack,North Indian,True,128.04,203.84,14
+ITEM0379,Pasta 379,Beverage,Burger,False,58.15,161.32,33
+ITEM0380,Momos 380,Starter,Cafe,True,175.23,254.08,19
+ITEM0381,Sandwich 381,Dessert,Desserts,False,85.3,412.67,20
+ITEM0382,Pizza 382,Dessert,Pizza,True,225.25,508.23,33
+ITEM0383,Coffee 383,Starter,Burger,False,231.49,335.66,13
+ITEM0384,Pizza 384,Fast Food,North Indian,True,102.75,178.74,23
+ITEM0385,Momos 385,Starter,Desserts,False,191.28,283.41,5
+ITEM0386,Sandwich 386,Main Course,Burger,True,118.41,238.5,23
+ITEM0387,Pasta 387,Snack,Biryani,False,91.41,132.54,26
+ITEM0388,Fried Rice 388,Beverage,North Indian,True,98.89,143.39,10
+ITEM0389,Sandwich 389,Beverage,Mughlai,True,115.64,167.68,9
+ITEM0390,Burger 390,Starter,Desserts,True,226.3,542.24,30
+ITEM0391,Pizza 391,Beverage,Biryani,False,47.15,170.04,16
+ITEM0392,Coffee 392,Main Course,Mughlai,False,60.06,317.86,14
+ITEM0393,Cake 393,Dessert,Desserts,True,131.15,391.04,21
+ITEM0394,Burger 394,Fast Food,Cafe,False,133.83,457.05,9
+ITEM0395,Fried Rice 395,Dessert,Cafe,True,142.31,388.13,25
+ITEM0396,Thali 396,Fast Food,Mughlai,True,48.71,150.47,21
+ITEM0397,Momos 397,Main Course,South Indian,False,239.13,346.74,33
+ITEM0398,Burger 398,Main Course,Street Food,False,70.77,222.4,27
+ITEM0399,Pizza 399,Dessert,Mughlai,False,169.81,295.43,15
+ITEM0400,Sandwich 400,Fast Food,Street Food,False,92.96,244.44,32
+ITEM0401,Cake 401,Dessert,Healthy,False,210.27,304.89,12
+ITEM0402,Fried Rice 402,Snack,Burger,False,183.73,381.02,7
+ITEM0403,Burger 403,Fast Food,Pizza,False,133.11,406.44,13
+ITEM0404,Noodles 404,Dessert,South Indian,True,162.91,538.5,32
+ITEM0405,Noodles 405,Snack,North Indian,False,103.3,349.51,8
+ITEM0406,Roll 406,Starter,Healthy,False,74.6,487.98,18
+ITEM0407,Cake 407,Dessert,Desserts,True,200.72,325.42,32
+ITEM0408,Cake 408,Dessert,Pizza,False,179.66,434.75,30
+ITEM0409,Fried Rice 409,Fast Food,Cafe,True,41.57,547.01,32
+ITEM0410,Cake 410,Snack,Desserts,True,244.3,448.45,5
+ITEM0411,Burger 411,Snack,South Indian,True,56.92,456.86,29
+ITEM0412,Pizza 412,Starter,Mughlai,False,235.28,486.94,5
+ITEM0413,Biryani 413,Snack,Burger,True,67.65,225.2,25
+ITEM0414,Thali 414,Snack,Healthy,True,131.97,465.38,30
+ITEM0415,Thali 415,Fast Food,Biryani,True,111.11,202.85,30
+ITEM0416,Noodles 416,Fast Food,Burger,True,108.47,157.28,35
+ITEM0417,Momos 417,Starter,North Indian,False,257.94,460.87,17
+ITEM0418,Noodles 418,Snack,Chinese,False,178.71,279.78,22
+ITEM0419,Roll 419,Snack,Burger,False,107.41,269.05,5
+ITEM0420,Dosa 420,Fast Food,Cafe,False,65.96,312.84,14
+ITEM0421,Paneer 421,Fast Food,South Indian,True,172.59,309.47,18
+ITEM0422,Pasta 422,Beverage,Chinese,True,154.67,235.43,33
+ITEM0423,Cake 423,Beverage,Street Food,True,178.81,259.27,18
+ITEM0424,Pizza 424,Beverage,Chinese,True,94.98,273.66,28
+ITEM0425,Fried Rice 425,Beverage,Healthy,True,219.86,318.8,7
+ITEM0426,Momos 426,Snack,Mughlai,True,66.13,99.89,30
+ITEM0427,Noodles 427,Dessert,Cafe,True,252.02,482.56,23
+ITEM0428,Fried Rice 428,Main Course,North Indian,True,204.27,323.83,34
+ITEM0429,Pasta 429,Starter,Desserts,True,100.23,170.33,22
+ITEM0430,Pasta 430,Dessert,Healthy,True,253.56,367.66,26
+ITEM0431,Dosa 431,Starter,Street Food,True,93.95,479.05,17
+ITEM0432,Roll 432,Starter,Burger,True,155.09,539.38,14
+ITEM0433,Sandwich 433,Starter,Burger,False,254.7,369.32,5
+ITEM0434,Sandwich 434,Snack,Street Food,True,241.15,349.67,13
+ITEM0435,Sandwich 435,Beverage,Biryani,False,180.74,482.42,23
+ITEM0436,Fried Rice 436,Main Course,South Indian,True,86.69,361.18,33
+ITEM0437,Pizza 437,Starter,North Indian,True,208.88,449.33,25
+ITEM0438,Burger 438,Dessert,Cafe,True,196.46,284.87,10
+ITEM0439,Burger 439,Main Course,Pizza,True,214.79,311.45,21
+ITEM0440,Momos 440,Dessert,Healthy,False,65.99,532.91,29
+ITEM0441,Coffee 441,Main Course,Desserts,True,126.1,503.44,22
+ITEM0442,Coffee 442,Fast Food,Mughlai,True,96.98,467.57,25
+ITEM0443,Pasta 443,Snack,Burger,True,41.19,516.71,16
+ITEM0444,Biryani 444,Snack,Cafe,False,224.72,325.84,17
+ITEM0445,Biryani 445,Snack,Chinese,False,218.0,316.1,9
+ITEM0446,Biryani 446,Starter,South Indian,True,179.48,407.41,21
+ITEM0447,Noodles 447,Starter,Burger,True,150.53,283.44,12
+ITEM0448,Roll 448,Starter,Healthy,True,130.74,416.05,25
+ITEM0449,Thali 449,Starter,Mughlai,False,160.23,480.89,12
+ITEM0450,Biryani 450,Main Course,Burger,True,139.68,226.06,11

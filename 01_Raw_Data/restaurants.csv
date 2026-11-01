@@ -1,0 +1,701 @@
+restaurant_id,restaurant_name,city,zone,cuisine,restaurant_type,price_category,restaurant_rating,avg_preparation_time
+REST0001,Cafe Foods 001,Gurugram,East,Chinese,Fast Food,Premium,3.4,25
+REST0002,Royal Diner 002,Mumbai,Central,North Indian,QSR,Budget,3.99,16
+REST0003,House Express 003,Bengaluru,West,Street Food,Restaurant,Mid-Range,4.08,30
+REST0004,Kitchen Express 004,Bengaluru,Central,Chinese,QSR,Mid-Range,3.53,26
+REST0005,Kitchen Foods 005,Pune,Outer,Healthy,Cafe,Mid-Range,4.08,16
+REST0006,House Express 006,Kolkata,Central,Chinese,Restaurant,Premium,3.94,26
+REST0007,Daily Bites 007,Bengaluru,East,Street Food,Restaurant,Mid-Range,4.27,34
+REST0008,Taste Hub 008,Pune,North,Cafe,QSR,Mid-Range,4.01,15
+REST0009,Daily Corner 009,Mumbai,West,Street Food,Restaurant,Mid-Range,4.23,15
+REST0010,Fresh Hub 010,Hyderabad,North,Desserts,Fast Food,Budget,4.11,17
+REST0011,Urban Bites 011,Ghaziabad,West,Mughlai,QSR,Premium,4.25,26
+REST0012,Fresh Cafe 012,Noida,Outer,Mughlai,Bakery,Premium,3.77,21
+REST0013,Urban Express 013,Chennai,North,Street Food,QSR,Premium,3.76,24
+REST0014,Spice Hub 014,Bengaluru,Central,South Indian,Fast Food,Budget,3.65,27
+REST0015,Kitchen Foods 015,Kolkata,North,Street Food,Cloud Kitchen,Mid-Range,3.8,29
+REST0016,House Diner 016,Gurugram,South,Cafe,Restaurant,Budget,4.3,17
+REST0017,House Foods 017,Kolkata,South,South Indian,Bakery,Budget,3.85,24
+REST0018,Spice Corner 018,Pune,Central,Burger,Cafe,Mid-Range,4.32,23
+REST0019,Fresh Bites 019,Gurugram,South,Cafe,QSR,Mid-Range,4.56,7
+REST0020,Cafe Bites 020,Gurugram,East,North Indian,QSR,Mid-Range,3.75,8
+REST0021,Food Hub 021,Chennai,East,Mughlai,Bakery,Mid-Range,3.5,19
+REST0022,Food Foods 022,Noida,Outer,Chinese,Fast Food,Mid-Range,3.75,19
+REST0023,Spice Corner 023,Ghaziabad,South,South Indian,Bakery,Mid-Range,3.78,15
+REST0024,Fresh Corner 024,Pune,South,Healthy,Cloud Kitchen,Mid-Range,3.7,19
+REST0025,Spice Foods 025,Bengaluru,North,Street Food,QSR,Mid-Range,3.7,19
+REST0026,Taste Corner 026,Mumbai,North,Chinese,QSR,Mid-Range,3.26,17
+REST0027,Fresh Diner 027,Gurugram,Outer,Desserts,Fast Food,Budget,4.22,17
+REST0028,Urban Diner 028,Kolkata,North,Healthy,Bakery,Mid-Range,3.28,14
+REST0029,Fresh Corner 029,Gurugram,South,Healthy,Bakery,Budget,4.16,28
+REST0030,Daily Corner 030,Kolkata,Central,Desserts,Restaurant,Budget,4.87,19
+REST0031,Cafe Express 031,Ghaziabad,Outer,Cafe,QSR,Mid-Range,4.44,18
+REST0032,Cafe Express 032,Pune,East,Cafe,Fast Food,Budget,4.46,23
+REST0033,Spice Corner 033,Bengaluru,West,Burger,QSR,Budget,4.01,7
+REST0034,House Bites 034,Pune,North,Pizza,Restaurant,Mid-Range,3.66,23
+REST0035,Daily Foods 035,Pune,East,South Indian,Cafe,Mid-Range,4.0,10
+REST0036,Daily Bites 036,Gurugram,Central,Burger,Bakery,Budget,3.72,7
+REST0037,Food Cafe 037,Chennai,Central,South Indian,Fast Food,Mid-Range,4.17,16
+REST0038,Urban Express 038,Mumbai,West,Cafe,Restaurant,Mid-Range,4.06,15
+REST0039,Royal Kitchen 039,Pune,Outer,Pizza,Bakery,Mid-Range,4.64,27
+REST0040,Daily Bites 040,Noida,Central,Healthy,Bakery,Budget,4.9,20
+REST0041,Taste Cafe 041,Delhi,East,South Indian,Restaurant,Budget,3.74,21
+REST0042,Cafe Hub 042,Mumbai,Central,Burger,QSR,Mid-Range,4.75,21
+REST0043,House Diner 043,Delhi,South,Desserts,Fast Food,Mid-Range,3.85,11
+REST0044,Cafe Hub 044,Bengaluru,North,Pizza,Fast Food,Premium,3.82,25
+REST0045,House Hub 045,Ghaziabad,South,North Indian,Fast Food,Mid-Range,4.09,7
+REST0046,Urban Diner 046,Delhi,South,North Indian,Cafe,Mid-Range,3.35,21
+REST0047,Fresh Cafe 047,Chennai,Outer,Burger,Restaurant,Budget,4.36,15
+REST0048,Royal Cafe 048,Pune,Outer,Pizza,Bakery,Budget,4.42,19
+REST0049,House Bites 049,Pune,Outer,Desserts,Restaurant,Premium,4.18,20
+REST0050,Royal Bites 050,Gurugram,West,North Indian,Bakery,Mid-Range,3.19,28
+REST0051,Kitchen Express 051,Delhi,Outer,South Indian,QSR,Premium,3.37,17
+REST0052,Food Cafe 052,Bengaluru,West,Mughlai,Fast Food,Budget,3.92,21
+REST0053,Taste Express 053,Noida,West,Desserts,Fast Food,Budget,3.78,29
+REST0054,Food Cafe 054,Gurugram,Outer,Cafe,Fast Food,Budget,3.76,20
+REST0055,Fresh Kitchen 055,Pune,West,Cafe,Cafe,Mid-Range,3.59,21
+REST0056,Daily Cafe 056,Chennai,South,South Indian,Cloud Kitchen,Premium,4.13,20
+REST0057,Taste Corner 057,Gurugram,East,Mughlai,Bakery,Mid-Range,3.92,11
+REST0058,Taste Foods 058,Hyderabad,Central,Mughlai,Cloud Kitchen,Budget,3.6,30
+REST0059,Urban Kitchen 059,Noida,North,South Indian,Bakery,Mid-Range,4.11,24
+REST0060,Food Kitchen 060,Chennai,North,Biryani,Restaurant,Budget,3.56,18
+REST0061,Daily Bites 061,Noida,East,Street Food,Fast Food,Budget,3.81,17
+REST0062,Kitchen Express 062,Delhi,Central,Mughlai,Restaurant,Premium,3.91,26
+REST0063,Kitchen Kitchen 063,Delhi,North,North Indian,Bakery,Budget,4.21,16
+REST0064,Spice Hub 064,Kolkata,Central,Desserts,Restaurant,Budget,3.57,31
+REST0065,Royal Cafe 065,Hyderabad,West,South Indian,Cloud Kitchen,Mid-Range,3.44,24
+REST0066,Food Express 066,Hyderabad,North,Healthy,Cafe,Mid-Range,3.93,20
+REST0067,Kitchen Corner 067,Kolkata,Outer,Mughlai,QSR,Mid-Range,3.94,14
+REST0068,Cafe Cafe 068,Pune,South,Cafe,Cloud Kitchen,Budget,3.99,27
+REST0069,Daily Kitchen 069,Bengaluru,Central,Pizza,Cloud Kitchen,Mid-Range,3.96,21
+REST0070,Cafe Foods 070,Chennai,East,South Indian,Cloud Kitchen,Budget,3.8,32
+REST0071,Kitchen Diner 071,Bengaluru,Outer,Burger,Cloud Kitchen,Budget,3.93,8
+REST0072,Spice Diner 072,Chennai,Central,Desserts,Bakery,Budget,4.34,25
+REST0073,Cafe Cafe 073,Gurugram,Outer,Mughlai,QSR,Premium,3.77,18
+REST0074,Taste Hub 074,Kolkata,North,Cafe,Bakery,Mid-Range,4.75,26
+REST0075,Food Hub 075,Kolkata,East,Healthy,Cafe,Budget,3.74,22
+REST0076,Spice Diner 076,Chennai,East,Burger,QSR,Mid-Range,4.33,15
+REST0077,Daily Corner 077,Pune,South,Healthy,Restaurant,Mid-Range,4.26,18
+REST0078,Cafe Diner 078,Kolkata,Central,South Indian,Restaurant,Mid-Range,4.05,18
+REST0079,Kitchen Corner 079,Hyderabad,East,Healthy,Cloud Kitchen,Mid-Range,3.63,20
+REST0080,Taste Corner 080,Delhi,West,Pizza,Bakery,Budget,3.81,20
+REST0081,Cafe Corner 081,Chennai,South,South Indian,Restaurant,Premium,4.33,27
+REST0082,Daily Bites 082,Gurugram,Central,Chinese,Bakery,Mid-Range,3.91,22
+REST0083,Kitchen Diner 083,Noida,West,Burger,QSR,Budget,3.39,26
+REST0084,Urban Kitchen 084,Chennai,East,Biryani,Bakery,Budget,4.46,23
+REST0085,Kitchen Express 085,Pune,South,Chinese,Cloud Kitchen,Mid-Range,3.4,23
+REST0086,Taste Bites 086,Noida,North,Street Food,QSR,Budget,4.51,22
+REST0087,Royal Express 087,Hyderabad,West,Biryani,Cloud Kitchen,Budget,4.33,11
+REST0088,Kitchen Foods 088,Hyderabad,East,Street Food,Restaurant,Mid-Range,4.0,16
+REST0089,Food Diner 089,Kolkata,North,Chinese,Restaurant,Mid-Range,3.87,18
+REST0090,Royal Bites 090,Bengaluru,South,Cafe,Restaurant,Budget,3.45,12
+REST0091,Food Corner 091,Noida,South,Cafe,Restaurant,Budget,3.19,20
+REST0092,Fresh Corner 092,Kolkata,Central,North Indian,QSR,Budget,4.15,25
+REST0093,Kitchen Kitchen 093,Mumbai,West,Chinese,QSR,Budget,3.97,16
+REST0094,House Foods 094,Hyderabad,Central,Street Food,Cafe,Mid-Range,4.31,17
+REST0095,Taste Express 095,Ghaziabad,South,Desserts,Restaurant,Mid-Range,3.77,27
+REST0096,Urban Foods 096,Mumbai,North,Street Food,QSR,Mid-Range,4.12,21
+REST0097,Urban Corner 097,Ghaziabad,Central,Chinese,Fast Food,Budget,3.56,18
+REST0098,Royal Cafe 098,Bengaluru,South,Chinese,Fast Food,Mid-Range,3.81,16
+REST0099,Food Foods 099,Delhi,Outer,Desserts,Restaurant,Premium,3.91,19
+REST0100,Fresh Hub 100,Noida,East,North Indian,Cloud Kitchen,Budget,3.82,24
+REST0101,Kitchen Bites 101,Noida,South,North Indian,Cloud Kitchen,Mid-Range,4.11,19
+REST0102,Food Express 102,Delhi,East,Cafe,Restaurant,Premium,3.69,22
+REST0103,Fresh Bites 103,Kolkata,Outer,South Indian,Cloud Kitchen,Premium,4.15,20
+REST0104,Royal Cafe 104,Hyderabad,Outer,South Indian,QSR,Mid-Range,4.27,25
+REST0105,Kitchen Hub 105,Kolkata,Central,South Indian,Cloud Kitchen,Budget,4.3,24
+REST0106,Spice Express 106,Hyderabad,Central,Street Food,QSR,Budget,4.37,17
+REST0107,Daily Kitchen 107,Delhi,East,South Indian,Fast Food,Budget,4.47,31
+REST0108,Cafe Express 108,Delhi,Central,Burger,QSR,Mid-Range,4.18,26
+REST0109,Daily Diner 109,Delhi,East,Chinese,Cloud Kitchen,Mid-Range,4.32,26
+REST0110,Taste Foods 110,Noida,West,Mughlai,Fast Food,Budget,3.58,20
+REST0111,Cafe Bites 111,Noida,South,Desserts,Restaurant,Budget,3.55,23
+REST0112,Daily Cafe 112,Kolkata,South,Chinese,Cafe,Mid-Range,4.43,23
+REST0113,Food Bites 113,Gurugram,West,Cafe,Cloud Kitchen,Mid-Range,3.76,13
+REST0114,Urban Bites 114,Ghaziabad,West,North Indian,Fast Food,Budget,3.8,11
+REST0115,Food Corner 115,Hyderabad,East,Chinese,Bakery,Mid-Range,3.95,17
+REST0116,House Kitchen 116,Gurugram,South,North Indian,Bakery,Budget,3.76,17
+REST0117,Spice Corner 117,Delhi,South,Pizza,QSR,Budget,4.05,13
+REST0118,Cafe Cafe 118,Noida,Outer,North Indian,Restaurant,Premium,3.95,26
+REST0119,Taste Express 119,Mumbai,North,Pizza,Restaurant,Budget,4.34,14
+REST0120,Cafe Corner 120,Bengaluru,East,Chinese,Cafe,Mid-Range,3.88,25
+REST0121,Spice Foods 121,Gurugram,East,Chinese,QSR,Budget,3.59,30
+REST0122,Daily Bites 122,Hyderabad,North,North Indian,Restaurant,Mid-Range,4.22,11
+REST0123,Kitchen Express 123,Chennai,Outer,Biryani,Fast Food,Mid-Range,4.11,32
+REST0124,Kitchen Cafe 124,Gurugram,Outer,Chinese,Restaurant,Mid-Range,3.98,24
+REST0125,Food Hub 125,Kolkata,North,Healthy,Cloud Kitchen,Budget,4.01,32
+REST0126,Food Corner 126,Ghaziabad,West,Burger,Fast Food,Premium,3.86,34
+REST0127,Urban Diner 127,Mumbai,North,Burger,Fast Food,Mid-Range,3.77,21
+REST0128,Royal Diner 128,Ghaziabad,South,Pizza,Restaurant,Budget,3.35,11
+REST0129,House Corner 129,Kolkata,Central,Street Food,Cloud Kitchen,Mid-Range,4.17,26
+REST0130,Cafe Express 130,Chennai,Outer,Healthy,Cloud Kitchen,Budget,4.13,13
+REST0131,Urban Diner 131,Gurugram,North,Biryani,Cloud Kitchen,Mid-Range,3.63,14
+REST0132,Urban Diner 132,Mumbai,Outer,Biryani,Cloud Kitchen,Mid-Range,4.24,25
+REST0133,Taste Corner 133,Noida,Central,Desserts,Cloud Kitchen,Budget,3.74,28
+REST0134,Royal Bites 134,Pune,East,Healthy,Bakery,Budget,3.99,12
+REST0135,Cafe Hub 135,Delhi,North,Healthy,QSR,Budget,4.72,28
+REST0136,Spice Diner 136,Mumbai,West,Pizza,Bakery,Mid-Range,3.56,18
+REST0137,House Bites 137,Kolkata,East,Pizza,Cafe,Mid-Range,4.17,19
+REST0138,Cafe Express 138,Hyderabad,West,Street Food,Restaurant,Mid-Range,4.37,14
+REST0139,Daily Hub 139,Hyderabad,Central,Mughlai,Bakery,Mid-Range,3.91,25
+REST0140,Spice Hub 140,Delhi,East,South Indian,Bakery,Budget,4.57,27
+REST0141,Royal Foods 141,Noida,Central,Biryani,Cloud Kitchen,Mid-Range,3.92,12
+REST0142,Urban Hub 142,Gurugram,South,Desserts,Cloud Kitchen,Budget,4.17,15
+REST0143,Kitchen Diner 143,Mumbai,North,Pizza,Bakery,Mid-Range,3.71,8
+REST0144,House Foods 144,Kolkata,West,South Indian,Cloud Kitchen,Premium,4.17,26
+REST0145,Daily Hub 145,Bengaluru,West,Healthy,Fast Food,Budget,3.95,27
+REST0146,Fresh Bites 146,Chennai,Outer,South Indian,Cloud Kitchen,Budget,4.2,19
+REST0147,Spice Express 147,Delhi,Outer,Chinese,Bakery,Mid-Range,3.97,14
+REST0148,Spice Hub 148,Pune,West,Healthy,QSR,Premium,3.51,15
+REST0149,Fresh Corner 149,Pune,South,Street Food,Cloud Kitchen,Mid-Range,3.6,27
+REST0150,Kitchen Hub 150,Delhi,Outer,Biryani,QSR,Mid-Range,4.2,15
+REST0151,Food Diner 151,Kolkata,West,Cafe,Cafe,Budget,3.81,26
+REST0152,House Corner 152,Noida,West,Cafe,QSR,Budget,3.8,14
+REST0153,Urban Corner 153,Kolkata,East,South Indian,Restaurant,Budget,3.48,28
+REST0154,Food Diner 154,Kolkata,North,Chinese,Restaurant,Budget,3.32,13
+REST0155,Food Express 155,Noida,Central,Mughlai,Fast Food,Mid-Range,4.22,18
+REST0156,Daily Foods 156,Delhi,Outer,Pizza,Bakery,Mid-Range,4.39,26
+REST0157,Royal Foods 157,Kolkata,East,North Indian,Cafe,Mid-Range,4.21,20
+REST0158,Royal Foods 158,Gurugram,South,North Indian,Fast Food,Mid-Range,3.79,15
+REST0159,Royal Diner 159,Noida,South,Healthy,Restaurant,Mid-Range,4.26,18
+REST0160,Royal Kitchen 160,Gurugram,Outer,Healthy,Cloud Kitchen,Budget,4.08,33
+REST0161,House Diner 161,Gurugram,West,Desserts,Fast Food,Premium,3.9,21
+REST0162,Royal Diner 162,Noida,Central,Street Food,Fast Food,Mid-Range,3.76,21
+REST0163,Food Cafe 163,Noida,Central,Burger,Cafe,Mid-Range,3.95,17
+REST0164,Kitchen Express 164,Gurugram,North,Street Food,Fast Food,Premium,3.52,20
+REST0165,Kitchen Corner 165,Mumbai,North,Biryani,Cloud Kitchen,Budget,3.91,22
+REST0166,Daily Diner 166,Noida,South,Chinese,Cafe,Mid-Range,4.31,22
+REST0167,Royal Hub 167,Pune,Central,Biryani,QSR,Premium,4.46,21
+REST0168,Royal Bites 168,Pune,North,Healthy,Cafe,Budget,4.01,25
+REST0169,Taste Bites 169,Delhi,East,Burger,Fast Food,Budget,4.04,31
+REST0170,House Diner 170,Hyderabad,Outer,North Indian,Cloud Kitchen,Mid-Range,4.59,29
+REST0171,Daily Express 171,Chennai,South,Desserts,Fast Food,Budget,4.17,16
+REST0172,Royal Cafe 172,Bengaluru,East,Chinese,Cafe,Budget,4.13,31
+REST0173,Food Corner 173,Bengaluru,North,Cafe,Restaurant,Budget,4.25,16
+REST0174,House Bites 174,Kolkata,Outer,Street Food,QSR,Budget,3.95,14
+REST0175,Urban Cafe 175,Pune,Outer,Street Food,Bakery,Budget,4.7,21
+REST0176,Urban Corner 176,Bengaluru,Central,Desserts,Cloud Kitchen,Mid-Range,4.16,22
+REST0177,Royal Hub 177,Pune,West,Desserts,Fast Food,Mid-Range,4.56,25
+REST0178,Urban Kitchen 178,Chennai,North,Healthy,Fast Food,Mid-Range,3.9,18
+REST0179,Daily Foods 179,Chennai,West,Desserts,Bakery,Mid-Range,4.3,17
+REST0180,House Diner 180,Kolkata,South,Desserts,Fast Food,Mid-Range,4.54,18
+REST0181,Fresh Diner 181,Delhi,South,Mughlai,Cloud Kitchen,Budget,4.05,19
+REST0182,Taste Foods 182,Pune,North,Mughlai,Bakery,Mid-Range,3.76,20
+REST0183,Daily Bites 183,Mumbai,West,Desserts,Cafe,Budget,4.08,25
+REST0184,Fresh Cafe 184,Ghaziabad,Central,South Indian,QSR,Mid-Range,4.38,21
+REST0185,Cafe Hub 185,Ghaziabad,Central,Desserts,Cloud Kitchen,Mid-Range,4.47,19
+REST0186,Food Cafe 186,Mumbai,North,Healthy,Fast Food,Budget,3.65,25
+REST0187,Cafe Cafe 187,Gurugram,South,Burger,Fast Food,Mid-Range,3.41,16
+REST0188,Fresh Diner 188,Gurugram,Outer,Burger,Cafe,Budget,3.58,28
+REST0189,Urban Kitchen 189,Chennai,South,Desserts,Restaurant,Mid-Range,4.61,19
+REST0190,Royal Express 190,Kolkata,West,South Indian,Cafe,Budget,4.09,20
+REST0191,Kitchen Cafe 191,Pune,South,Desserts,Fast Food,Premium,4.22,19
+REST0192,Urban Bites 192,Mumbai,Central,Healthy,Cloud Kitchen,Mid-Range,4.73,22
+REST0193,House Express 193,Hyderabad,East,Chinese,Fast Food,Budget,4.04,11
+REST0194,Fresh Bites 194,Kolkata,South,Cafe,Cloud Kitchen,Budget,4.48,24
+REST0195,Food Foods 195,Kolkata,Central,Healthy,Fast Food,Mid-Range,4.9,18
+REST0196,Urban Diner 196,Chennai,West,Mughlai,Restaurant,Budget,3.6,26
+REST0197,House Diner 197,Gurugram,West,Chinese,Bakery,Mid-Range,3.67,20
+REST0198,Spice Foods 198,Gurugram,East,Burger,Cafe,Mid-Range,3.86,23
+REST0199,Royal Bites 199,Chennai,Central,Burger,Bakery,Budget,3.97,21
+REST0200,Food Bites 200,Chennai,North,South Indian,Cafe,Mid-Range,3.81,16
+REST0201,Urban Cafe 201,Ghaziabad,North,South Indian,Restaurant,Mid-Range,4.33,20
+REST0202,Spice Diner 202,Kolkata,East,Chinese,Bakery,Premium,4.21,14
+REST0203,Taste Hub 203,Ghaziabad,Outer,Street Food,Bakery,Mid-Range,3.53,22
+REST0204,Cafe Kitchen 204,Kolkata,South,South Indian,QSR,Budget,4.03,9
+REST0205,Kitchen Express 205,Kolkata,North,Burger,Bakery,Budget,3.53,18
+REST0206,Royal Foods 206,Pune,East,Chinese,Cloud Kitchen,Budget,4.27,28
+REST0207,Kitchen Diner 207,Chennai,South,Biryani,Cafe,Mid-Range,4.25,17
+REST0208,Food Cafe 208,Pune,West,Mughlai,Restaurant,Budget,3.26,11
+REST0209,Daily Bites 209,Mumbai,Outer,Healthy,Restaurant,Budget,3.3,14
+REST0210,Fresh Kitchen 210,Bengaluru,Outer,Healthy,QSR,Budget,3.99,29
+REST0211,Fresh Bites 211,Kolkata,West,Desserts,Cloud Kitchen,Budget,3.54,29
+REST0212,Taste Corner 212,Hyderabad,West,Biryani,Cafe,Premium,3.86,19
+REST0213,Fresh Kitchen 213,Bengaluru,North,Pizza,Bakery,Budget,3.91,31
+REST0214,Food Diner 214,Ghaziabad,North,Chinese,QSR,Mid-Range,3.95,32
+REST0215,Royal Diner 215,Kolkata,East,Healthy,QSR,Mid-Range,4.09,26
+REST0216,House Hub 216,Noida,North,North Indian,QSR,Budget,3.73,22
+REST0217,Spice Express 217,Noida,Outer,Street Food,Cloud Kitchen,Premium,3.51,24
+REST0218,Urban Corner 218,Chennai,South,Desserts,Cafe,Mid-Range,3.68,28
+REST0219,House Hub 219,Mumbai,East,Pizza,Restaurant,Mid-Range,3.78,8
+REST0220,Taste Hub 220,Gurugram,North,Street Food,Cloud Kitchen,Mid-Range,3.89,16
+REST0221,Food Cafe 221,Pune,West,Street Food,QSR,Mid-Range,4.23,25
+REST0222,Food Express 222,Gurugram,North,Healthy,Bakery,Mid-Range,3.52,16
+REST0223,Urban Diner 223,Noida,Outer,Healthy,Restaurant,Mid-Range,4.02,18
+REST0224,Taste Corner 224,Pune,South,Healthy,Cafe,Mid-Range,3.69,13
+REST0225,Urban Express 225,Kolkata,West,North Indian,Bakery,Budget,4.16,16
+REST0226,Kitchen Express 226,Mumbai,South,Street Food,Fast Food,Premium,3.64,26
+REST0227,Fresh Diner 227,Kolkata,North,Mughlai,Restaurant,Mid-Range,4.5,24
+REST0228,Taste Diner 228,Delhi,North,Desserts,Bakery,Mid-Range,3.57,18
+REST0229,Food Diner 229,Kolkata,East,Healthy,Bakery,Premium,4.4,14
+REST0230,Spice Hub 230,Mumbai,Outer,Mughlai,QSR,Budget,4.56,23
+REST0231,Royal Cafe 231,Delhi,South,Biryani,Bakery,Mid-Range,4.23,21
+REST0232,Urban Cafe 232,Mumbai,North,South Indian,QSR,Budget,3.7,22
+REST0233,Taste Cafe 233,Chennai,South,South Indian,Fast Food,Budget,4.04,17
+REST0234,Fresh Kitchen 234,Delhi,West,Chinese,Restaurant,Mid-Range,3.99,20
+REST0235,Royal Express 235,Gurugram,South,Healthy,Cloud Kitchen,Mid-Range,4.02,21
+REST0236,Daily Cafe 236,Kolkata,East,Desserts,Restaurant,Budget,4.31,26
+REST0237,House Diner 237,Ghaziabad,Outer,Biryani,Bakery,Mid-Range,3.95,25
+REST0238,Spice Cafe 238,Bengaluru,South,Desserts,QSR,Budget,4.19,24
+REST0239,House Bites 239,Gurugram,West,Desserts,Cloud Kitchen,Premium,3.89,30
+REST0240,Fresh Corner 240,Hyderabad,East,North Indian,Fast Food,Mid-Range,4.61,16
+REST0241,Urban Kitchen 241,Mumbai,Central,North Indian,Restaurant,Premium,4.2,18
+REST0242,Kitchen Cafe 242,Delhi,South,Burger,Cafe,Mid-Range,4.17,16
+REST0243,Fresh Corner 243,Noida,Central,Chinese,QSR,Mid-Range,3.63,21
+REST0244,Kitchen Hub 244,Pune,North,North Indian,Bakery,Mid-Range,4.06,21
+REST0245,Cafe Kitchen 245,Gurugram,West,Pizza,Bakery,Premium,3.88,26
+REST0246,Cafe Foods 246,Ghaziabad,South,Pizza,Restaurant,Budget,4.12,17
+REST0247,Fresh Cafe 247,Noida,Outer,South Indian,Restaurant,Budget,4.03,14
+REST0248,Food Cafe 248,Bengaluru,South,Burger,QSR,Mid-Range,3.85,22
+REST0249,Food Corner 249,Ghaziabad,East,Street Food,Cafe,Mid-Range,3.99,22
+REST0250,Food Bites 250,Pune,North,Cafe,Bakery,Budget,3.06,22
+REST0251,Kitchen Hub 251,Mumbai,North,South Indian,Bakery,Budget,4.7,16
+REST0252,Daily Kitchen 252,Gurugram,North,Desserts,QSR,Mid-Range,4.14,18
+REST0253,Fresh Corner 253,Hyderabad,Outer,North Indian,QSR,Mid-Range,3.12,23
+REST0254,Food Foods 254,Mumbai,South,Cafe,Restaurant,Mid-Range,4.16,22
+REST0255,Cafe Kitchen 255,Noida,Outer,North Indian,Fast Food,Mid-Range,3.76,14
+REST0256,Kitchen Corner 256,Gurugram,South,Biryani,Cafe,Premium,4.11,24
+REST0257,Kitchen Express 257,Noida,East,North Indian,Fast Food,Premium,3.85,13
+REST0258,Taste Kitchen 258,Noida,East,Pizza,Cafe,Budget,4.46,12
+REST0259,Taste Cafe 259,Chennai,Central,South Indian,Fast Food,Mid-Range,3.53,19
+REST0260,Food Hub 260,Ghaziabad,Outer,Pizza,Restaurant,Premium,4.19,20
+REST0261,Fresh Kitchen 261,Kolkata,Central,Mughlai,Cafe,Budget,4.34,19
+REST0262,Royal Cafe 262,Pune,West,Chinese,Fast Food,Budget,3.66,10
+REST0263,Fresh Diner 263,Mumbai,East,Desserts,Cloud Kitchen,Mid-Range,4.38,15
+REST0264,Royal Express 264,Noida,West,Pizza,QSR,Budget,3.93,16
+REST0265,Cafe Hub 265,Delhi,North,Desserts,Cafe,Budget,4.26,21
+REST0266,Cafe Kitchen 266,Delhi,East,Biryani,Fast Food,Budget,3.22,19
+REST0267,Fresh Bites 267,Mumbai,Central,Cafe,Restaurant,Mid-Range,3.66,14
+REST0268,Kitchen Hub 268,Noida,Central,Desserts,Bakery,Budget,4.08,23
+REST0269,Urban Kitchen 269,Noida,North,Burger,Cafe,Mid-Range,3.79,20
+REST0270,Daily Kitchen 270,Delhi,Outer,South Indian,Cloud Kitchen,Budget,3.91,20
+REST0271,Daily Diner 271,Mumbai,East,Biryani,Bakery,Mid-Range,4.07,28
+REST0272,Daily Corner 272,Bengaluru,West,Chinese,Cloud Kitchen,Budget,3.3,16
+REST0273,Daily Kitchen 273,Hyderabad,South,South Indian,Restaurant,Budget,4.06,16
+REST0274,Spice Kitchen 274,Hyderabad,West,Mughlai,Cloud Kitchen,Mid-Range,4.22,23
+REST0275,House Bites 275,Bengaluru,Central,Street Food,Fast Food,Premium,3.93,17
+REST0276,Urban Cafe 276,Pune,Outer,Chinese,Bakery,Mid-Range,3.72,28
+REST0277,Taste Bites 277,Noida,East,Desserts,Restaurant,Premium,4.48,19
+REST0278,Kitchen Bites 278,Kolkata,South,North Indian,Restaurant,Mid-Range,4.19,28
+REST0279,Fresh Bites 279,Delhi,South,Mughlai,Fast Food,Budget,4.31,7
+REST0280,Spice Kitchen 280,Chennai,Central,Mughlai,Restaurant,Mid-Range,4.57,20
+REST0281,Taste Foods 281,Gurugram,South,Mughlai,Fast Food,Budget,4.06,19
+REST0282,House Diner 282,Chennai,Central,Chinese,Bakery,Premium,3.2,27
+REST0283,Kitchen Bites 283,Bengaluru,North,Desserts,Cafe,Budget,3.83,21
+REST0284,Kitchen Diner 284,Noida,South,North Indian,Fast Food,Mid-Range,4.11,20
+REST0285,Spice Kitchen 285,Gurugram,West,North Indian,Cloud Kitchen,Mid-Range,4.14,15
+REST0286,Food Diner 286,Ghaziabad,Central,Mughlai,Cafe,Premium,3.92,25
+REST0287,Cafe Hub 287,Chennai,Outer,North Indian,Cafe,Premium,3.52,14
+REST0288,House Hub 288,Kolkata,South,Burger,Fast Food,Mid-Range,4.06,22
+REST0289,Fresh Cafe 289,Ghaziabad,South,Street Food,Bakery,Premium,4.14,26
+REST0290,Food Kitchen 290,Delhi,East,Burger,Restaurant,Mid-Range,3.43,20
+REST0291,Food Kitchen 291,Delhi,North,Chinese,Restaurant,Budget,4.4,27
+REST0292,Food Corner 292,Delhi,Outer,Cafe,Restaurant,Budget,3.99,21
+REST0293,Kitchen Kitchen 293,Gurugram,North,Pizza,Bakery,Budget,4.41,26
+REST0294,Spice Foods 294,Gurugram,West,North Indian,Fast Food,Budget,3.94,21
+REST0295,Urban Foods 295,Pune,Outer,Healthy,Bakery,Budget,4.53,31
+REST0296,Kitchen Foods 296,Gurugram,Outer,Desserts,QSR,Budget,4.29,15
+REST0297,Urban Kitchen 297,Kolkata,Outer,South Indian,Restaurant,Mid-Range,3.44,16
+REST0298,Fresh Express 298,Pune,West,South Indian,Cloud Kitchen,Budget,3.55,9
+REST0299,Kitchen Diner 299,Delhi,West,Street Food,Cloud Kitchen,Budget,3.74,18
+REST0300,Fresh Cafe 300,Chennai,West,Healthy,QSR,Premium,3.66,32
+REST0301,Fresh Corner 301,Chennai,South,North Indian,QSR,Mid-Range,4.0,20
+REST0302,Taste Bites 302,Ghaziabad,West,Chinese,Fast Food,Budget,4.82,23
+REST0303,Kitchen Diner 303,Hyderabad,West,Desserts,Restaurant,Mid-Range,4.4,31
+REST0304,House Diner 304,Gurugram,Central,Desserts,Cloud Kitchen,Mid-Range,4.12,16
+REST0305,House Corner 305,Noida,West,Chinese,Fast Food,Budget,3.6,15
+REST0306,Spice Kitchen 306,Kolkata,East,Burger,QSR,Budget,3.82,27
+REST0307,Kitchen Bites 307,Mumbai,Central,Desserts,Restaurant,Mid-Range,3.75,24
+REST0308,Food Diner 308,Gurugram,South,Desserts,Restaurant,Mid-Range,3.79,22
+REST0309,Kitchen Diner 309,Delhi,Outer,Desserts,Bakery,Mid-Range,4.05,18
+REST0310,Fresh Diner 310,Pune,West,South Indian,Bakery,Mid-Range,4.2,27
+REST0311,Food Kitchen 311,Chennai,Outer,Biryani,Cafe,Mid-Range,4.35,23
+REST0312,Kitchen Express 312,Kolkata,Central,Burger,Bakery,Budget,4.43,14
+REST0313,Taste Diner 313,Bengaluru,Central,Biryani,Cafe,Mid-Range,4.34,29
+REST0314,Kitchen Hub 314,Mumbai,West,Cafe,Cafe,Premium,4.17,30
+REST0315,Kitchen Express 315,Bengaluru,East,Street Food,Cafe,Premium,4.51,26
+REST0316,House Diner 316,Noida,North,Biryani,Cafe,Mid-Range,4.57,16
+REST0317,Royal Cafe 317,Mumbai,Central,South Indian,Cloud Kitchen,Mid-Range,3.79,18
+REST0318,Fresh Foods 318,Chennai,North,Healthy,Cafe,Budget,3.77,16
+REST0319,Royal Cafe 319,Gurugram,North,Street Food,Fast Food,Mid-Range,4.18,24
+REST0320,House Kitchen 320,Hyderabad,East,Desserts,QSR,Mid-Range,4.4,21
+REST0321,Urban Corner 321,Delhi,Central,Desserts,Cafe,Budget,4.77,23
+REST0322,Daily Kitchen 322,Gurugram,East,South Indian,Cafe,Budget,3.89,18
+REST0323,Spice Foods 323,Gurugram,South,Burger,Restaurant,Mid-Range,3.81,24
+REST0324,House Express 324,Noida,East,Pizza,Cafe,Budget,3.88,29
+REST0325,Cafe Diner 325,Gurugram,North,Desserts,Fast Food,Budget,4.17,21
+REST0326,Taste Diner 326,Hyderabad,East,Desserts,Bakery,Budget,4.07,20
+REST0327,Fresh Kitchen 327,Bengaluru,West,Biryani,Cloud Kitchen,Budget,4.05,16
+REST0328,Cafe Diner 328,Hyderabad,East,Biryani,Bakery,Budget,3.74,15
+REST0329,Urban Corner 329,Kolkata,Central,Cafe,Fast Food,Budget,4.11,24
+REST0330,Spice Hub 330,Delhi,Central,Mughlai,Fast Food,Budget,4.22,14
+REST0331,Cafe Kitchen 331,Gurugram,East,Healthy,Cloud Kitchen,Budget,4.28,12
+REST0332,Daily Corner 332,Bengaluru,West,South Indian,Fast Food,Budget,3.93,16
+REST0333,Urban Diner 333,Kolkata,West,Street Food,Restaurant,Mid-Range,3.78,20
+REST0334,Cafe Bites 334,Chennai,South,Desserts,Cafe,Mid-Range,4.03,27
+REST0335,Fresh Cafe 335,Ghaziabad,West,Cafe,Restaurant,Mid-Range,3.28,32
+REST0336,Food Express 336,Hyderabad,Central,Burger,Cloud Kitchen,Mid-Range,4.83,22
+REST0337,Urban Hub 337,Delhi,East,North Indian,Cafe,Mid-Range,3.84,22
+REST0338,Daily Kitchen 338,Hyderabad,West,Burger,Bakery,Budget,4.9,12
+REST0339,Urban Corner 339,Noida,South,South Indian,Restaurant,Premium,4.31,18
+REST0340,Kitchen Express 340,Hyderabad,West,Desserts,Cafe,Premium,3.95,17
+REST0341,Fresh Bites 341,Ghaziabad,Outer,Desserts,Restaurant,Budget,4.26,16
+REST0342,Daily Cafe 342,Hyderabad,North,Burger,Cafe,Mid-Range,3.66,27
+REST0343,Royal Express 343,Ghaziabad,West,Healthy,Cloud Kitchen,Mid-Range,4.19,13
+REST0344,Food Diner 344,Chennai,West,North Indian,Fast Food,Premium,4.05,25
+REST0345,Daily Diner 345,Ghaziabad,South,Desserts,QSR,Mid-Range,4.48,26
+REST0346,Fresh Express 346,Noida,Central,Pizza,Fast Food,Budget,4.48,22
+REST0347,Spice Diner 347,Bengaluru,Outer,North Indian,Cloud Kitchen,Mid-Range,3.35,12
+REST0348,Urban Bites 348,Bengaluru,North,Mughlai,Cloud Kitchen,Budget,4.44,17
+REST0349,Daily Kitchen 349,Noida,North,Mughlai,Cafe,Premium,4.02,18
+REST0350,Food Foods 350,Ghaziabad,South,Chinese,Cafe,Budget,4.16,14
+REST0351,Daily Hub 351,Chennai,North,Pizza,Bakery,Mid-Range,3.72,25
+REST0352,House Diner 352,Delhi,Outer,Chinese,Bakery,Budget,4.23,28
+REST0353,Spice Diner 353,Hyderabad,North,South Indian,Fast Food,Mid-Range,3.61,17
+REST0354,Urban Bites 354,Hyderabad,Outer,Chinese,Cloud Kitchen,Mid-Range,4.07,20
+REST0355,Taste Corner 355,Gurugram,West,Biryani,Cloud Kitchen,Premium,4.18,23
+REST0356,Urban Cafe 356,Gurugram,South,Street Food,Fast Food,Mid-Range,3.86,16
+REST0357,Food Diner 357,Bengaluru,West,South Indian,Bakery,Budget,4.8,7
+REST0358,Daily Cafe 358,Gurugram,West,Desserts,QSR,Budget,4.09,14
+REST0359,Royal Hub 359,Mumbai,North,Street Food,Restaurant,Budget,3.85,20
+REST0360,Daily Cafe 360,Kolkata,Outer,South Indian,Cloud Kitchen,Premium,3.21,17
+REST0361,Taste Corner 361,Noida,South,Burger,Cloud Kitchen,Budget,4.22,31
+REST0362,Daily Corner 362,Ghaziabad,South,Healthy,Restaurant,Mid-Range,4.32,16
+REST0363,Cafe Cafe 363,Pune,East,Street Food,Fast Food,Mid-Range,3.48,21
+REST0364,Daily Express 364,Bengaluru,South,Street Food,Bakery,Mid-Range,4.26,28
+REST0365,Daily Cafe 365,Gurugram,North,Burger,Cloud Kitchen,Mid-Range,3.39,28
+REST0366,Urban Foods 366,Noida,Central,Cafe,QSR,Mid-Range,3.98,19
+REST0367,House Kitchen 367,Gurugram,Outer,Biryani,Bakery,Mid-Range,3.71,24
+REST0368,Urban Diner 368,Chennai,West,Chinese,Cloud Kitchen,Mid-Range,4.69,13
+REST0369,Spice Hub 369,Bengaluru,Central,Cafe,Cloud Kitchen,Budget,4.37,11
+REST0370,Spice Bites 370,Noida,East,Mughlai,Cloud Kitchen,Mid-Range,3.91,23
+REST0371,Fresh Bites 371,Kolkata,Central,Cafe,Fast Food,Mid-Range,3.3,31
+REST0372,Daily Corner 372,Mumbai,East,Biryani,Bakery,Budget,4.4,29
+REST0373,Fresh Express 373,Gurugram,Central,Mughlai,Restaurant,Mid-Range,3.93,23
+REST0374,Daily Bites 374,Hyderabad,Outer,Chinese,QSR,Mid-Range,3.56,29
+REST0375,Daily Diner 375,Kolkata,West,Chinese,Restaurant,Mid-Range,4.42,14
+REST0376,Food Cafe 376,Chennai,Outer,Burger,Cafe,Budget,3.49,20
+REST0377,Cafe Hub 377,Noida,Outer,Mughlai,Cafe,Mid-Range,3.91,22
+REST0378,Taste Kitchen 378,Noida,Central,Healthy,Cloud Kitchen,Budget,3.93,16
+REST0379,Fresh Diner 379,Kolkata,Outer,North Indian,Fast Food,Budget,3.52,19
+REST0380,Royal Express 380,Kolkata,Central,Desserts,Cloud Kitchen,Budget,3.76,23
+REST0381,Urban Kitchen 381,Mumbai,South,Chinese,Cloud Kitchen,Mid-Range,4.19,7
+REST0382,Taste Corner 382,Ghaziabad,West,South Indian,QSR,Mid-Range,4.4,28
+REST0383,Kitchen Kitchen 383,Ghaziabad,West,Mughlai,Cafe,Mid-Range,4.46,23
+REST0384,Fresh Diner 384,Hyderabad,Central,Cafe,Bakery,Budget,4.47,22
+REST0385,Fresh Hub 385,Pune,Central,Biryani,Cafe,Mid-Range,4.59,18
+REST0386,Taste Hub 386,Noida,North,Biryani,Restaurant,Mid-Range,4.02,22
+REST0387,House Bites 387,Noida,West,Desserts,Cafe,Mid-Range,3.6,18
+REST0388,Fresh Bites 388,Gurugram,North,Biryani,Cafe,Budget,4.12,26
+REST0389,Kitchen Kitchen 389,Kolkata,North,Healthy,Cloud Kitchen,Budget,4.06,33
+REST0390,Fresh Cafe 390,Noida,West,South Indian,Cafe,Budget,4.31,23
+REST0391,Urban Hub 391,Noida,South,North Indian,Restaurant,Mid-Range,3.89,33
+REST0392,Fresh Kitchen 392,Ghaziabad,Outer,Cafe,QSR,Mid-Range,3.77,21
+REST0393,Daily Cafe 393,Noida,South,Pizza,Cloud Kitchen,Budget,3.78,10
+REST0394,House Express 394,Pune,South,Healthy,Restaurant,Budget,3.76,19
+REST0395,Cafe Diner 395,Chennai,Outer,Mughlai,Bakery,Mid-Range,3.95,36
+REST0396,Kitchen Foods 396,Delhi,South,Pizza,QSR,Budget,3.58,16
+REST0397,Urban Hub 397,Noida,East,South Indian,Cafe,Mid-Range,4.25,16
+REST0398,Fresh Cafe 398,Pune,East,Biryani,Fast Food,Budget,3.84,25
+REST0399,Food Bites 399,Chennai,Central,Mughlai,Fast Food,Mid-Range,4.23,20
+REST0400,Urban Cafe 400,Chennai,West,Cafe,Bakery,Budget,4.06,17
+REST0401,Taste Corner 401,Gurugram,North,Desserts,Fast Food,Mid-Range,3.36,17
+REST0402,Fresh Kitchen 402,Gurugram,Outer,Street Food,Fast Food,Budget,3.66,22
+REST0403,Daily Kitchen 403,Kolkata,East,Burger,QSR,Mid-Range,4.5,18
+REST0404,Urban Express 404,Chennai,West,Biryani,QSR,Mid-Range,4.24,12
+REST0405,Spice Corner 405,Noida,Outer,Street Food,QSR,Budget,4.11,12
+REST0406,Food Corner 406,Mumbai,East,South Indian,Cafe,Premium,3.76,26
+REST0407,Fresh Diner 407,Kolkata,North,Mughlai,QSR,Budget,3.61,25
+REST0408,House Foods 408,Kolkata,Outer,Desserts,QSR,Mid-Range,4.09,27
+REST0409,Taste Diner 409,Chennai,West,Pizza,Cloud Kitchen,Mid-Range,3.95,24
+REST0410,Daily Corner 410,Delhi,East,South Indian,Restaurant,Budget,4.28,25
+REST0411,Spice Cafe 411,Delhi,North,Pizza,Restaurant,Mid-Range,4.09,25
+REST0412,Taste Cafe 412,Ghaziabad,South,Burger,Fast Food,Mid-Range,3.95,23
+REST0413,Food Express 413,Bengaluru,East,Desserts,QSR,Premium,3.96,26
+REST0414,Royal Cafe 414,Pune,West,Cafe,Cafe,Mid-Range,3.32,24
+REST0415,Kitchen Cafe 415,Pune,Outer,South Indian,Cloud Kitchen,Budget,3.53,14
+REST0416,Kitchen Corner 416,Bengaluru,West,Cafe,Cloud Kitchen,Mid-Range,4.77,28
+REST0417,Urban Express 417,Mumbai,South,Healthy,QSR,Mid-Range,4.32,16
+REST0418,House Foods 418,Ghaziabad,Central,Pizza,QSR,Mid-Range,4.12,17
+REST0419,Daily Cafe 419,Pune,Central,Cafe,Cafe,Mid-Range,4.57,22
+REST0420,Taste Kitchen 420,Mumbai,West,Desserts,Restaurant,Budget,4.7,22
+REST0421,Urban Foods 421,Kolkata,South,Chinese,QSR,Mid-Range,4.78,25
+REST0422,Kitchen Express 422,Bengaluru,Central,Healthy,Fast Food,Budget,3.94,25
+REST0423,Cafe Hub 423,Pune,South,North Indian,Bakery,Budget,3.62,16
+REST0424,Food Bites 424,Delhi,South,Cafe,QSR,Premium,4.06,14
+REST0425,Royal Hub 425,Gurugram,Central,Biryani,Cafe,Mid-Range,3.85,22
+REST0426,Food Bites 426,Pune,Central,Desserts,Cafe,Mid-Range,4.0,24
+REST0427,Spice Diner 427,Ghaziabad,East,Chinese,Fast Food,Mid-Range,4.48,19
+REST0428,Cafe Bites 428,Kolkata,North,North Indian,Bakery,Mid-Range,3.85,23
+REST0429,Fresh Hub 429,Hyderabad,West,Desserts,QSR,Mid-Range,3.64,20
+REST0430,Kitchen Express 430,Gurugram,North,Healthy,Restaurant,Budget,3.74,19
+REST0431,Royal Diner 431,Ghaziabad,West,Street Food,Bakery,Budget,4.43,24
+REST0432,House Bites 432,Chennai,South,Chinese,Cloud Kitchen,Mid-Range,3.7,20
+REST0433,Royal Hub 433,Chennai,South,Chinese,Fast Food,Premium,4.06,19
+REST0434,House Kitchen 434,Chennai,South,Mughlai,Restaurant,Mid-Range,3.33,22
+REST0435,Taste Foods 435,Mumbai,West,Burger,QSR,Mid-Range,3.88,14
+REST0436,Cafe Diner 436,Gurugram,North,Cafe,Restaurant,Mid-Range,3.8,18
+REST0437,Daily Diner 437,Gurugram,East,Street Food,Bakery,Mid-Range,3.83,19
+REST0438,Urban Hub 438,Gurugram,South,Healthy,Cloud Kitchen,Budget,3.64,18
+REST0439,Daily Express 439,Hyderabad,Outer,Burger,QSR,Mid-Range,4.07,17
+REST0440,Taste Hub 440,Pune,Central,Biryani,Fast Food,Budget,3.96,22
+REST0441,Kitchen Diner 441,Bengaluru,East,South Indian,QSR,Mid-Range,4.09,24
+REST0442,Urban Cafe 442,Kolkata,Central,North Indian,Fast Food,Budget,4.02,18
+REST0443,House Kitchen 443,Ghaziabad,North,Pizza,Fast Food,Budget,4.17,25
+REST0444,House Kitchen 444,Noida,West,Pizza,Bakery,Premium,4.07,24
+REST0445,House Bites 445,Pune,West,Desserts,Cafe,Mid-Range,3.55,25
+REST0446,Cafe Cafe 446,Noida,South,Healthy,Cafe,Budget,4.1,7
+REST0447,Taste Bites 447,Pune,North,Cafe,Bakery,Budget,3.69,27
+REST0448,Royal Hub 448,Gurugram,West,Biryani,Fast Food,Mid-Range,4.66,25
+REST0449,Food Diner 449,Mumbai,Central,Biryani,Fast Food,Mid-Range,4.17,26
+REST0450,Royal Express 450,Mumbai,East,Chinese,Cafe,Mid-Range,4.39,20
+REST0451,Daily Diner 451,Mumbai,South,South Indian,QSR,Mid-Range,3.88,30
+REST0452,Cafe Corner 452,Chennai,Central,Biryani,Cloud Kitchen,Budget,3.9,28
+REST0453,Food Kitchen 453,Chennai,Outer,Chinese,Cloud Kitchen,Budget,4.23,11
+REST0454,Royal Corner 454,Gurugram,West,North Indian,Cafe,Mid-Range,4.08,14
+REST0455,Spice Express 455,Chennai,West,Biryani,Cloud Kitchen,Budget,3.79,19
+REST0456,Royal Foods 456,Bengaluru,South,South Indian,Restaurant,Mid-Range,3.87,26
+REST0457,Taste Bites 457,Chennai,East,Chinese,Bakery,Budget,4.89,15
+REST0458,Cafe Kitchen 458,Pune,Outer,Biryani,Fast Food,Mid-Range,3.71,23
+REST0459,Kitchen Cafe 459,Mumbai,South,Desserts,Cafe,Budget,3.56,27
+REST0460,Urban Foods 460,Kolkata,South,Burger,Bakery,Budget,4.31,24
+REST0461,Spice Express 461,Hyderabad,North,Chinese,QSR,Budget,4.08,28
+REST0462,Daily Express 462,Bengaluru,Outer,North Indian,QSR,Budget,4.45,26
+REST0463,Urban Diner 463,Noida,South,Biryani,Cloud Kitchen,Budget,4.6,25
+REST0464,Cafe Kitchen 464,Mumbai,East,Healthy,Cloud Kitchen,Budget,3.57,19
+REST0465,Cafe Hub 465,Delhi,Central,Pizza,Bakery,Mid-Range,4.54,16
+REST0466,Urban Hub 466,Noida,Central,Desserts,Cloud Kitchen,Mid-Range,3.66,21
+REST0467,Royal Corner 467,Noida,Central,Healthy,Bakery,Budget,3.57,23
+REST0468,Taste Express 468,Chennai,Outer,Street Food,Bakery,Premium,3.75,20
+REST0469,Spice Diner 469,Pune,Central,Mughlai,Bakery,Budget,4.66,17
+REST0470,Daily Corner 470,Mumbai,Outer,South Indian,Restaurant,Mid-Range,3.83,12
+REST0471,Urban Hub 471,Kolkata,Central,North Indian,Bakery,Budget,3.58,10
+REST0472,Daily Foods 472,Hyderabad,South,Biryani,Cloud Kitchen,Premium,3.87,22
+REST0473,Urban Corner 473,Gurugram,South,South Indian,Cafe,Mid-Range,4.32,23
+REST0474,Daily Kitchen 474,Bengaluru,North,Desserts,Restaurant,Budget,4.38,10
+REST0475,Taste Hub 475,Chennai,Outer,Street Food,Bakery,Budget,3.13,24
+REST0476,Food Hub 476,Delhi,North,Burger,Bakery,Budget,3.99,14
+REST0477,Cafe Corner 477,Bengaluru,Central,Healthy,Bakery,Premium,4.34,22
+REST0478,Spice Foods 478,Gurugram,Central,Desserts,Cloud Kitchen,Premium,4.4,16
+REST0479,Spice Bites 479,Kolkata,East,Chinese,Bakery,Mid-Range,3.8,20
+REST0480,Food Hub 480,Noida,East,Desserts,Cafe,Mid-Range,3.99,22
+REST0481,Fresh Hub 481,Noida,North,Healthy,Cloud Kitchen,Budget,4.71,15
+REST0482,Royal Bites 482,Mumbai,Outer,Burger,Cloud Kitchen,Mid-Range,3.76,14
+REST0483,Spice Bites 483,Bengaluru,Central,Healthy,Cafe,Mid-Range,2.76,14
+REST0484,Urban Bites 484,Delhi,South,South Indian,Cafe,Mid-Range,3.82,40
+REST0485,Fresh Cafe 485,Kolkata,Central,Street Food,QSR,Mid-Range,3.65,27
+REST0486,Kitchen Hub 486,Kolkata,Central,South Indian,Cloud Kitchen,Mid-Range,3.85,17
+REST0487,House Bites 487,Hyderabad,West,South Indian,Cloud Kitchen,Budget,3.18,23
+REST0488,Urban Hub 488,Chennai,South,North Indian,Bakery,Mid-Range,4.41,12
+REST0489,Food Foods 489,Bengaluru,East,Healthy,Restaurant,Mid-Range,4.39,30
+REST0490,Spice Diner 490,Bengaluru,East,Cafe,Fast Food,Budget,3.8,11
+REST0491,Fresh Express 491,Pune,East,Mughlai,Cafe,Mid-Range,4.23,21
+REST0492,Cafe Bites 492,Bengaluru,North,Mughlai,Fast Food,Budget,3.84,15
+REST0493,Cafe Foods 493,Bengaluru,Outer,Biryani,Cafe,Mid-Range,3.81,18
+REST0494,Urban Corner 494,Hyderabad,Central,Desserts,QSR,Budget,3.89,20
+REST0495,Taste Kitchen 495,Gurugram,West,Biryani,Cloud Kitchen,Budget,3.87,28
+REST0496,Fresh Cafe 496,Delhi,Outer,Desserts,QSR,Budget,3.78,20
+REST0497,Spice Express 497,Delhi,West,Cafe,Bakery,Mid-Range,4.55,25
+REST0498,House Foods 498,Pune,Outer,Street Food,Cloud Kitchen,Premium,4.05,15
+REST0499,Urban Express 499,Noida,East,Pizza,Cloud Kitchen,Premium,3.75,15
+REST0500,Food Diner 500,Pune,East,Biryani,Restaurant,Budget,4.05,21
+REST0501,Urban Kitchen 501,Chennai,East,Chinese,Bakery,Budget,4.33,24
+REST0502,Food Diner 502,Kolkata,North,Chinese,QSR,Budget,4.1,20
+REST0503,House Cafe 503,Chennai,Central,Chinese,Bakery,Mid-Range,3.88,26
+REST0504,Fresh Express 504,Delhi,East,Mughlai,Bakery,Mid-Range,4.5,23
+REST0505,Urban Hub 505,Delhi,West,North Indian,Cloud Kitchen,Budget,4.54,18
+REST0506,Urban Express 506,Ghaziabad,North,South Indian,QSR,Budget,3.38,20
+REST0507,House Kitchen 507,Hyderabad,Outer,Biryani,Fast Food,Mid-Range,4.28,25
+REST0508,House Corner 508,Mumbai,North,South Indian,QSR,Mid-Range,4.58,23
+REST0509,Urban Hub 509,Chennai,West,Street Food,Cloud Kitchen,Budget,4.45,7
+REST0510,Spice Diner 510,Mumbai,South,Pizza,Bakery,Mid-Range,3.59,28
+REST0511,Food Diner 511,Hyderabad,South,Pizza,Bakery,Premium,3.13,13
+REST0512,Food Diner 512,Ghaziabad,South,North Indian,Fast Food,Premium,4.21,22
+REST0513,Spice Cafe 513,Bengaluru,West,Biryani,Fast Food,Budget,3.87,16
+REST0514,Daily Cafe 514,Gurugram,South,Mughlai,Cafe,Budget,3.75,21
+REST0515,Daily Express 515,Pune,Outer,Desserts,Cafe,Mid-Range,3.79,26
+REST0516,Kitchen Express 516,Pune,East,Burger,Fast Food,Mid-Range,3.94,15
+REST0517,Taste Corner 517,Chennai,Outer,South Indian,QSR,Budget,4.09,17
+REST0518,Kitchen Express 518,Ghaziabad,East,Street Food,Fast Food,Premium,3.79,21
+REST0519,Daily Foods 519,Ghaziabad,East,Healthy,QSR,Premium,3.85,8
+REST0520,Urban Diner 520,Chennai,Central,Burger,Cafe,Budget,4.64,17
+REST0521,Urban Corner 521,Delhi,Central,Healthy,Cloud Kitchen,Premium,4.1,18
+REST0522,Urban Diner 522,Noida,North,South Indian,Bakery,Premium,3.84,9
+REST0523,Cafe Kitchen 523,Delhi,West,Chinese,Bakery,Budget,3.25,27
+REST0524,Fresh Foods 524,Ghaziabad,North,Burger,Fast Food,Mid-Range,4.31,12
+REST0525,Food Corner 525,Mumbai,Outer,North Indian,Cloud Kitchen,Mid-Range,4.23,23
+REST0526,Daily Diner 526,Noida,South,Healthy,QSR,Budget,3.76,14
+REST0527,Food Kitchen 527,Pune,North,Healthy,Cloud Kitchen,Budget,4.39,24
+REST0528,Urban Bites 528,Delhi,Outer,Mughlai,Cloud Kitchen,Budget,4.02,35
+REST0529,Urban Corner 529,Pune,East,North Indian,Cloud Kitchen,Mid-Range,4.43,16
+REST0530,Cafe Hub 530,Chennai,Outer,Chinese,Cafe,Budget,4.1,15
+REST0531,Daily Express 531,Mumbai,Central,Chinese,QSR,Premium,3.51,19
+REST0532,Urban Diner 532,Bengaluru,West,Biryani,Bakery,Mid-Range,3.12,26
+REST0533,Urban Foods 533,Bengaluru,Outer,North Indian,Cloud Kitchen,Mid-Range,3.7,32
+REST0534,Kitchen Bites 534,Noida,Outer,North Indian,Cloud Kitchen,Budget,4.06,18
+REST0535,Fresh Foods 535,Chennai,West,Healthy,Cloud Kitchen,Budget,3.88,21
+REST0536,Fresh Corner 536,Gurugram,Central,Healthy,Fast Food,Budget,3.8,17
+REST0537,Cafe Hub 537,Ghaziabad,Outer,Mughlai,Restaurant,Budget,4.03,19
+REST0538,Cafe Bites 538,Kolkata,Central,Healthy,Fast Food,Premium,4.33,26
+REST0539,Fresh Express 539,Noida,South,Burger,Cloud Kitchen,Mid-Range,4.07,15
+REST0540,Taste Foods 540,Kolkata,Central,Pizza,Fast Food,Mid-Range,3.41,24
+REST0541,Fresh Diner 541,Pune,South,South Indian,Restaurant,Mid-Range,3.76,17
+REST0542,Urban Bites 542,Mumbai,Central,Cafe,QSR,Budget,4.19,9
+REST0543,Food Diner 543,Noida,East,Pizza,Fast Food,Budget,3.86,7
+REST0544,Fresh Hub 544,Bengaluru,Central,Mughlai,Cafe,Mid-Range,3.99,31
+REST0545,Food Corner 545,Hyderabad,Central,Cafe,Restaurant,Premium,4.35,26
+REST0546,Royal Foods 546,Pune,Outer,Chinese,Cafe,Mid-Range,3.61,17
+REST0547,Spice Kitchen 547,Bengaluru,West,Cafe,Cloud Kitchen,Mid-Range,4.13,15
+REST0548,Royal Bites 548,Chennai,North,Pizza,Cafe,Budget,3.83,21
+REST0549,Urban Kitchen 549,Kolkata,Outer,Street Food,Bakery,Mid-Range,3.7,27
+REST0550,Fresh Diner 550,Noida,South,Biryani,Cloud Kitchen,Mid-Range,4.01,17
+REST0551,Urban Cafe 551,Gurugram,West,South Indian,Restaurant,Mid-Range,3.73,18
+REST0552,Cafe Kitchen 552,Mumbai,Outer,Burger,Cafe,Mid-Range,4.54,26
+REST0553,Cafe Hub 553,Gurugram,North,Street Food,QSR,Mid-Range,3.69,25
+REST0554,Urban Express 554,Pune,North,Biryani,Cafe,Budget,3.63,23
+REST0555,Urban Diner 555,Mumbai,East,Mughlai,Fast Food,Premium,3.74,26
+REST0556,Taste Kitchen 556,Pune,South,North Indian,QSR,Mid-Range,4.39,23
+REST0557,Cafe Cafe 557,Delhi,Central,Street Food,Restaurant,Mid-Range,4.21,14
+REST0558,Spice Cafe 558,Mumbai,Outer,Pizza,Fast Food,Mid-Range,4.3,32
+REST0559,Royal Express 559,Hyderabad,East,Desserts,Restaurant,Budget,4.64,16
+REST0560,Royal Hub 560,Kolkata,East,North Indian,Cafe,Mid-Range,3.65,10
+REST0561,Urban Express 561,Noida,West,Burger,Bakery,Budget,3.7,21
+REST0562,Fresh Express 562,Gurugram,East,Desserts,QSR,Mid-Range,4.36,17
+REST0563,Food Diner 563,Chennai,West,Healthy,Restaurant,Mid-Range,4.16,27
+REST0564,Kitchen Kitchen 564,Gurugram,South,Pizza,Restaurant,Mid-Range,4.54,13
+REST0565,Royal Foods 565,Gurugram,West,South Indian,Fast Food,Budget,3.67,15
+REST0566,Spice Bites 566,Gurugram,West,Desserts,Bakery,Mid-Range,4.21,7
+REST0567,Taste Cafe 567,Gurugram,South,Biryani,Cloud Kitchen,Mid-Range,3.97,22
+REST0568,Kitchen Diner 568,Chennai,South,Healthy,Fast Food,Budget,4.85,39
+REST0569,Cafe Diner 569,Noida,East,Burger,Cafe,Budget,3.57,14
+REST0570,Urban Kitchen 570,Noida,South,Mughlai,Cloud Kitchen,Budget,4.26,21
+REST0571,Food Foods 571,Noida,West,Cafe,QSR,Budget,4.56,20
+REST0572,Cafe Cafe 572,Gurugram,West,North Indian,Bakery,Mid-Range,4.56,17
+REST0573,Daily Kitchen 573,Hyderabad,South,Chinese,Cloud Kitchen,Premium,3.86,22
+REST0574,Daily Diner 574,Delhi,South,North Indian,Cloud Kitchen,Budget,4.24,31
+REST0575,Kitchen Corner 575,Chennai,Central,Mughlai,Cloud Kitchen,Mid-Range,4.02,29
+REST0576,Taste Express 576,Kolkata,Outer,North Indian,Cafe,Budget,3.86,21
+REST0577,Taste Kitchen 577,Ghaziabad,East,Healthy,Fast Food,Budget,4.38,25
+REST0578,Fresh Cafe 578,Delhi,East,Pizza,Restaurant,Mid-Range,4.2,17
+REST0579,Cafe Diner 579,Chennai,West,South Indian,QSR,Mid-Range,4.42,13
+REST0580,Kitchen Bites 580,Chennai,South,Healthy,Restaurant,Mid-Range,4.46,18
+REST0581,Taste Cafe 581,Ghaziabad,Outer,Cafe,Cloud Kitchen,Mid-Range,3.56,34
+REST0582,Kitchen Foods 582,Hyderabad,Outer,Healthy,QSR,Mid-Range,3.97,23
+REST0583,Kitchen Corner 583,Kolkata,Outer,Street Food,Fast Food,Budget,3.79,13
+REST0584,Kitchen Cafe 584,Gurugram,North,Biryani,Cafe,Mid-Range,4.07,22
+REST0585,Urban Diner 585,Gurugram,South,Mughlai,Fast Food,Budget,4.46,18
+REST0586,Fresh Kitchen 586,Mumbai,East,Mughlai,Cafe,Mid-Range,4.28,16
+REST0587,Fresh Corner 587,Delhi,Central,Street Food,Restaurant,Premium,3.57,29
+REST0588,Fresh Corner 588,Bengaluru,North,Cafe,Cloud Kitchen,Premium,4.21,15
+REST0589,Cafe Hub 589,Chennai,North,Chinese,Cloud Kitchen,Mid-Range,4.73,9
+REST0590,Daily Express 590,Bengaluru,South,South Indian,Cafe,Mid-Range,4.21,23
+REST0591,House Hub 591,Pune,East,South Indian,Cloud Kitchen,Mid-Range,4.5,13
+REST0592,Daily Hub 592,Chennai,Central,Pizza,Fast Food,Mid-Range,4.6,22
+REST0593,Fresh Corner 593,Gurugram,South,Street Food,Cloud Kitchen,Budget,3.54,7
+REST0594,Fresh Kitchen 594,Noida,South,Healthy,Fast Food,Budget,3.67,28
+REST0595,Daily Express 595,Hyderabad,East,North Indian,Cafe,Mid-Range,3.76,21
+REST0596,Food Corner 596,Kolkata,South,Street Food,QSR,Budget,3.83,20
+REST0597,Royal Corner 597,Chennai,West,South Indian,Restaurant,Premium,3.77,17
+REST0598,Taste Corner 598,Noida,West,North Indian,Cafe,Premium,4.11,32
+REST0599,Taste Diner 599,Noida,West,Cafe,QSR,Mid-Range,3.83,27
+REST0600,Spice Cafe 600,Hyderabad,Central,Street Food,Restaurant,Budget,4.34,23
+REST0601,Urban Kitchen 601,Delhi,Central,Pizza,Fast Food,Budget,4.7,22
+REST0602,Daily Kitchen 602,Pune,North,Burger,Cloud Kitchen,Budget,4.65,28
+REST0603,Spice Cafe 603,Mumbai,East,South Indian,Cafe,Premium,3.66,27
+REST0604,Cafe Kitchen 604,Noida,North,Pizza,Restaurant,Mid-Range,3.7,15
+REST0605,Kitchen Kitchen 605,Kolkata,North,Pizza,Fast Food,Mid-Range,4.11,7
+REST0606,House Corner 606,Delhi,Outer,Burger,Restaurant,Mid-Range,3.94,22
+REST0607,Urban Hub 607,Kolkata,Outer,Biryani,QSR,Premium,3.26,19
+REST0608,Food Cafe 608,Bengaluru,West,Cafe,Bakery,Premium,4.9,24
+REST0609,Royal Diner 609,Ghaziabad,North,Cafe,Cafe,Budget,3.82,30
+REST0610,Kitchen Express 610,Bengaluru,North,South Indian,QSR,Budget,3.97,19
+REST0611,Food Foods 611,Chennai,South,Street Food,Fast Food,Mid-Range,4.17,8
+REST0612,Taste Kitchen 612,Kolkata,North,Street Food,Fast Food,Mid-Range,3.78,21
+REST0613,Urban Bites 613,Ghaziabad,Central,Pizza,Bakery,Mid-Range,4.59,21
+REST0614,Food Corner 614,Kolkata,West,Pizza,QSR,Budget,4.12,21
+REST0615,Daily Cafe 615,Pune,East,Healthy,Cafe,Premium,4.01,25
+REST0616,Taste Hub 616,Kolkata,East,Pizza,Cafe,Mid-Range,4.23,10
+REST0617,Royal Cafe 617,Noida,Central,Burger,Bakery,Premium,4.12,12
+REST0618,House Kitchen 618,Pune,Outer,Street Food,Restaurant,Budget,3.92,19
+REST0619,Royal Corner 619,Noida,West,Healthy,Fast Food,Mid-Range,3.64,25
+REST0620,Fresh Diner 620,Hyderabad,West,Cafe,Restaurant,Budget,3.91,7
+REST0621,Urban Corner 621,Kolkata,Outer,Desserts,QSR,Mid-Range,4.71,15
+REST0622,House Foods 622,Gurugram,Central,Pizza,Restaurant,Budget,4.12,20
+REST0623,Urban Corner 623,Pune,West,Street Food,Fast Food,Mid-Range,4.02,16
+REST0624,Kitchen Hub 624,Hyderabad,West,Desserts,Fast Food,Budget,4.32,35
+REST0625,Royal Hub 625,Hyderabad,West,South Indian,Cloud Kitchen,Premium,4.36,25
+REST0626,House Cafe 626,Kolkata,South,Pizza,Restaurant,Mid-Range,3.63,26
+REST0627,House Kitchen 627,Delhi,Outer,Cafe,QSR,Mid-Range,4.1,27
+REST0628,Royal Express 628,Noida,North,Burger,Cloud Kitchen,Mid-Range,4.13,23
+REST0629,Fresh Foods 629,Ghaziabad,Central,Cafe,Bakery,Mid-Range,4.1,11
+REST0630,Fresh Foods 630,Delhi,East,Burger,Restaurant,Premium,4.4,15
+REST0631,Taste Corner 631,Kolkata,East,Healthy,QSR,Budget,4.2,31
+REST0632,Royal Diner 632,Kolkata,North,Healthy,Restaurant,Budget,4.4,15
+REST0633,Urban Kitchen 633,Noida,North,Cafe,Cafe,Budget,4.53,20
+REST0634,Daily Cafe 634,Ghaziabad,East,Chinese,Cloud Kitchen,Mid-Range,4.21,18
+REST0635,Daily Foods 635,Kolkata,East,Cafe,Cafe,Mid-Range,4.9,10
+REST0636,Taste Corner 636,Ghaziabad,West,Desserts,QSR,Budget,3.86,30
+REST0637,Urban Kitchen 637,Noida,West,Chinese,Cloud Kitchen,Mid-Range,3.9,17
+REST0638,Royal Foods 638,Delhi,Outer,Cafe,Cafe,Premium,3.54,20
+REST0639,Food Kitchen 639,Hyderabad,West,Mughlai,Fast Food,Premium,3.58,18
+REST0640,Daily Kitchen 640,Gurugram,East,Chinese,QSR,Budget,4.67,13
+REST0641,House Foods 641,Ghaziabad,West,Biryani,Fast Food,Mid-Range,4.0,23
+REST0642,Cafe Kitchen 642,Hyderabad,East,Street Food,Fast Food,Mid-Range,4.16,21
+REST0643,Fresh Diner 643,Kolkata,South,Street Food,Cloud Kitchen,Mid-Range,4.09,23
+REST0644,Food Express 644,Noida,South,Cafe,Restaurant,Budget,3.75,31
+REST0645,Kitchen Kitchen 645,Pune,Outer,Chinese,QSR,Premium,3.82,22
+REST0646,Cafe Cafe 646,Bengaluru,South,Chinese,QSR,Mid-Range,3.75,21
+REST0647,House Diner 647,Hyderabad,Outer,Mughlai,Fast Food,Budget,3.75,21
+REST0648,Royal Diner 648,Kolkata,Central,Chinese,QSR,Budget,4.49,14
+REST0649,Kitchen Cafe 649,Delhi,East,Street Food,Cloud Kitchen,Premium,3.91,18
+REST0650,Urban Express 650,Chennai,West,South Indian,Fast Food,Mid-Range,3.91,24
+REST0651,Urban Cafe 651,Delhi,Central,Chinese,Cafe,Budget,3.92,12
+REST0652,Kitchen Foods 652,Ghaziabad,Central,Desserts,Bakery,Budget,3.83,24
+REST0653,House Diner 653,Ghaziabad,East,Desserts,Fast Food,Budget,3.91,19
+REST0654,Urban Express 654,Chennai,South,Street Food,Fast Food,Budget,3.98,23
+REST0655,Fresh Hub 655,Delhi,Central,Biryani,Cloud Kitchen,Budget,4.23,20
+REST0656,Food Diner 656,Mumbai,South,Pizza,QSR,Premium,3.7,23
+REST0657,Royal Corner 657,Delhi,Central,Cafe,QSR,Premium,4.36,20
+REST0658,Taste Bites 658,Chennai,Central,Cafe,Restaurant,Budget,4.21,19
+REST0659,Spice Corner 659,Pune,Outer,Healthy,Fast Food,Mid-Range,3.96,27
+REST0660,Taste Cafe 660,Hyderabad,Central,Biryani,Cafe,Budget,4.0,11
+REST0661,Fresh Hub 661,Mumbai,North,Healthy,Cloud Kitchen,Mid-Range,4.09,26
+REST0662,Food Cafe 662,Kolkata,North,Cafe,Fast Food,Budget,4.25,33
+REST0663,Taste Foods 663,Ghaziabad,South,Chinese,Cloud Kitchen,Premium,3.91,15
+REST0664,Daily Cafe 664,Chennai,East,Biryani,Cafe,Mid-Range,3.98,22
+REST0665,Taste Express 665,Bengaluru,South,Mughlai,Fast Food,Mid-Range,3.97,15
+REST0666,Cafe Foods 666,Noida,South,Healthy,Bakery,Mid-Range,4.07,10
+REST0667,Royal Express 667,Hyderabad,South,Desserts,Restaurant,Budget,3.57,27
+REST0668,House Diner 668,Delhi,South,Cafe,Cloud Kitchen,Mid-Range,4.38,23
+REST0669,Royal Corner 669,Kolkata,West,Pizza,Cafe,Mid-Range,4.28,22
+REST0670,House Cafe 670,Chennai,Central,North Indian,QSR,Premium,3.9,22
+REST0671,Urban Express 671,Ghaziabad,North,Street Food,QSR,Mid-Range,4.51,17
+REST0672,Royal Corner 672,Pune,West,Street Food,Cafe,Budget,4.47,13
+REST0673,Kitchen Diner 673,Chennai,East,Pizza,Restaurant,Budget,3.52,21
+REST0674,Royal Kitchen 674,Mumbai,East,Burger,Cafe,Budget,4.3,21
+REST0675,Kitchen Kitchen 675,Bengaluru,North,North Indian,Restaurant,Budget,3.99,19
+REST0676,House Diner 676,Ghaziabad,North,Chinese,Fast Food,Budget,3.38,17
+REST0677,Royal Hub 677,Bengaluru,Outer,Chinese,Fast Food,Budget,3.72,24
+REST0678,Food Express 678,Ghaziabad,South,Desserts,Cafe,Budget,3.66,17
+REST0679,Urban Cafe 679,Chennai,South,Mughlai,Bakery,Mid-Range,3.56,11
+REST0680,Spice Corner 680,Mumbai,Central,Street Food,Bakery,Mid-Range,4.38,12
+REST0681,Taste Corner 681,Gurugram,West,Burger,QSR,Budget,4.04,33
+REST0682,Royal Hub 682,Pune,South,Cafe,Bakery,Budget,3.77,20
+REST0683,Royal Foods 683,Hyderabad,North,Pizza,Restaurant,Mid-Range,4.33,27
+REST0684,Cafe Express 684,Pune,North,Healthy,Fast Food,Budget,3.79,20
+REST0685,Daily Foods 685,Mumbai,South,Chinese,Restaurant,Budget,3.63,19
+REST0686,Royal Express 686,Chennai,Outer,Mughlai,Bakery,Premium,4.26,14
+REST0687,Urban Corner 687,Mumbai,South,Street Food,Restaurant,Mid-Range,3.71,24
+REST0688,Daily Diner 688,Kolkata,North,Desserts,Bakery,Budget,4.64,15
+REST0689,Urban Express 689,Delhi,North,Street Food,Cloud Kitchen,Mid-Range,3.69,29
+REST0690,Fresh Foods 690,Gurugram,Central,Mughlai,QSR,Budget,4.12,13
+REST0691,Spice Hub 691,Gurugram,North,Biryani,Fast Food,Mid-Range,3.83,14
+REST0692,Taste Express 692,Bengaluru,Central,Healthy,Bakery,Budget,3.99,17
+REST0693,Taste Diner 693,Gurugram,West,Pizza,Cafe,Premium,3.48,14
+REST0694,Urban Diner 694,Pune,Central,South Indian,Restaurant,Budget,4.36,16
+REST0695,Cafe Diner 695,Chennai,South,Mughlai,QSR,Budget,3.88,22
+REST0696,Taste Kitchen 696,Pune,West,Biryani,Cafe,Mid-Range,3.79,18
+REST0697,Urban Foods 697,Ghaziabad,West,Burger,Cloud Kitchen,Mid-Range,3.87,15
+REST0698,Cafe Bites 698,Delhi,Central,North Indian,Bakery,Budget,3.53,25
+REST0699,Taste Express 699,Mumbai,West,Pizza,Fast Food,Premium,3.78,16
+REST0700,Spice Express 700,Ghaziabad,East,Burger,Bakery,Premium,3.95,19
