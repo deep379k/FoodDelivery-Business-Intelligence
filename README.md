@@ -215,12 +215,10 @@ Focuses on comparing food delivery platform performance.
 - Average order value by platform.
 - Platform-level business performance.
 
-<details>
-<summary><strong>View Platform & Revenue dashboard</strong></summary>
 
 ![FoodFlow Platform and Revenue Analysis](06_Dashboard_Images/02_Platform_Revenue.png)
 
-</details>
+
 
 ### Page 3 — Customer & Restaurant Insights
 
@@ -234,12 +232,10 @@ Focuses on customer segmentation, restaurant contribution and geographical distr
 - Restaurant rating and revenue performance.
 - New versus returning customer analysis.
 
-<details>
-<summary><strong>View Customer & Restaurant dashboard</strong></summary>
 
 ![FoodFlow Customer and Restaurant Insights](06_Dashboard_Images/03_Customer_Restaurant.png)
 
-</details>
+
 
 ### Page 4 — Delivery & Operations Analysis
 
@@ -251,12 +247,9 @@ Focuses on operational efficiency and delivery performance.
 - Delivery distance versus actual delivery time.
 - Rider and vehicle performance comparison.
 
-<details>
-<summary><strong>View Delivery & Operations dashboard</strong></summary>
+
 
 ![FoodFlow Delivery and Operations Analysis](06_Dashboard_Images/Delivery%20%26%20Operation%20Analysis.png)
-
-</details>
 
 ---
 
