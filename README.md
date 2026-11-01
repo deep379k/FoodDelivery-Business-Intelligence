@@ -399,14 +399,11 @@ These are analytical use cases and potential applications; the project does not 
 
 # 👨‍💻 Author
 
-**Deepanshu Gond**
+
+Deepanshu Gond
 
 Aspiring Data Analyst | Business Intelligence | SQL | Python | Power BI
 
 Interested in transforming raw data into meaningful business insights through data analytics, visualization and business intelligence.
 
----
 
-<p align="center">
-  <strong>FoodFlow Analytics — From Raw Data to Business Insights.</strong>
-</p>
